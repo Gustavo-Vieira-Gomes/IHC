@@ -11,7 +11,8 @@
     "typecheck": "tsc --noEmit",
     "assets:download": "python3 scripts/download-assets.py",
     "assets:check": "python3 scripts/check-assets.py",
-    "test": "node --experimental-strip-types --test tests/*.test.ts"
+    "test": "node --experimental-strip-types --test tests/*.test.ts",
+    "preview:offline": "expo export --platform web && python3 scripts/offline-preview.py"
   },
   "dependencies": {
     "@expo-google-fonts/ibm-plex-serif": "^0.4.0",

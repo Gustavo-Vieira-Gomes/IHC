@@ -12,8 +12,9 @@ export const initialPlaces: Place[] = [
   { ...base, id: 'kartodromo', name: 'Kartódromo', category: 'Natureza', categories: ['Natureza', 'Esportes', 'Parques'], image: '436c8.png', hours: defaultHours(), mine: false, createdAt: 0 },
 ];
 export const initialReviews: Review[] = [
-  { id: 'review-1', placeId: 'ibirapuera', author: 'João Pedro Neves', rating: 5, text: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit,', mine: true },
-  { id: 'review-2', placeId: 'ibirapuera', author: 'João Pedro Neves', rating: 5, text: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit,', mine: true },
+  { id: 'review-1', placeId: 'ibirapuera', author: 'João Pedro Neves', rating: 5, text: description, mine: true, createdAt: 6 },
+  { id: 'review-2', placeId: 'ibirapuera', author: 'João Pedro Neves', rating: 5, text: description, mine: true, createdAt: 5 },
+  { id: 'review-5', placeId: 'ibirapuera', author: 'João Pedro Neves', rating: 5, text: description, mine: true, createdAt: 4 },
   { id: 'review-3', placeId: 'kartodromo', author: '@User1', rating: 4.5, text: description, mine: false },
   { id: 'review-4', placeId: 'kartodromo', author: '@User2', rating: 4.5, text: description, mine: false },
 ];

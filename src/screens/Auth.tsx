@@ -4,15 +4,17 @@ import { Image } from 'expo-image';
 import type { NativeStackScreenProps } from '@react-navigation/native-stack';
 import { Asset, Button, Dialog, Field, Label, Link, Title } from '../components';
 import { assets } from '../assets';
+import { useAppearance } from '../appearance';
 import { useStore } from '../store';
 import { colors, fonts } from '../theme';
 import { validateAuth } from '../domain';
 import type { RootStack } from '../types';
 
 export function WelcomeScreen({ navigation }: NativeStackScreenProps<RootStack, 'Welcome'>) {
+  const { palette } = useAppearance();
   const { width } = useWindowDimensions();
   const scale = Math.min(width, 430) / 430;
-  return <ScrollView style={{ backgroundColor: '#fff' }} contentContainerStyle={{ paddingBottom: 16 }}>
+  return <ScrollView style={{ backgroundColor: palette.canvas }} contentContainerStyle={{ paddingBottom: 16 }}>
     <View style={{ height: 665 * scale }}>
       <View style={{ height: 587 * scale, overflow: 'hidden', borderBottomLeftRadius: 64, borderBottomRightRadius: 64 }}>
         <Image source={assets['5fb84.png']} style={{ position: 'absolute', width: 548 * scale, height: 683 * scale, left: -59 * scale, top: -48 * scale }} contentFit="cover" />
@@ -31,6 +33,7 @@ export function WelcomeScreen({ navigation }: NativeStackScreenProps<RootStack, 
 }
 
 export function AuthScreen({ navigation, route }: NativeStackScreenProps<RootStack, 'Login' | 'Register'>) {
+  const { palette } = useAppearance();
   const register = route.name === 'Register';
   const { signIn } = useStore();
   const [username, setUsername] = useState('');
@@ -47,7 +50,7 @@ export function AuthScreen({ navigation, route }: NativeStackScreenProps<RootSta
     setError(validation);
     if (!validation) { signIn(register ? username.trim() : undefined, remember); navigation.reset({ index: 0, routes: [{ name: 'Home' }] }); }
   };
-  return <KeyboardAvoidingView style={{ flex: 1, backgroundColor: '#fff' }} behavior={Platform.OS === 'ios' ? 'padding' : undefined}><ScrollView keyboardShouldPersistTaps="handled" contentContainerStyle={styles.auth}>
+  return <KeyboardAvoidingView style={{ flex: 1, backgroundColor: palette.canvas }} behavior={Platform.OS === 'ios' ? 'padding' : undefined}><ScrollView keyboardShouldPersistTaps="handled" contentContainerStyle={styles.auth}>
     <Title style={{ marginBottom: 0, marginHorizontal: register ? -5 : 4 }}>{register ? 'Olá, que bom\nter você aqui!' : 'Que bom ter você de volta!'}</Title>
     <View style={{ marginTop: register ? 58 : 165 }}>
       <Field label="Usuário/email" value={username} onChange={setUsername} placeholder={register ? 'Insira um nome de usuário' : 'Digite seu nome de usuário'} icon="26312.svg" />
