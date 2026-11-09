@@ -1,0 +1,18 @@
+<svg preserveAspectRatio="none" overflow="visible" style="display: block;" width="56" height="56" viewBox="0 0 56 56" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="akar-icons:home" filter="url(#filter0_d_0_62)">
+<rect x="10" y="8" width="36" height="36" rx="18" fill="white" shape-rendering="crispEdges"/>
+<path id="Vector" d="M37 33.12V26.387C37 25.8445 36.8896 25.3076 36.6756 24.809C36.4616 24.3105 36.1483 23.8607 35.755 23.487L29.378 17.43C29.0063 17.0769 28.5132 16.88 28.0005 16.88C27.4878 16.88 26.9947 17.0769 26.623 17.43L20.245 23.487C19.8517 23.8607 19.5384 24.3105 19.3244 24.809C19.1104 25.3076 19 25.8445 19 26.387V33.12C19 33.6504 19.2107 34.1591 19.5858 34.5342C19.9609 34.9093 20.4696 35.12 21 35.12H35C35.5304 35.12 36.0391 34.9093 36.4142 34.5342C36.7893 34.1591 37 33.6504 37 33.12Z" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke="#4D91FF"/>
+</g>
+<defs>
+<filter id="filter0_d_0_62" x="0" y="0" width="56" height="56" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dy="2"/>
+<feGaussianBlur stdDeviation="5"/>
+<feComposite in2="hardAlpha" operator="out"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.5 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_0_62"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_0_62" result="shape"/>
+</filter>
+</defs>
+</svg>

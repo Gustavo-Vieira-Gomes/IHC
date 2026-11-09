@@ -1,0 +1,13 @@
+{
+  "expo": {
+    "name": "Explorar",
+    "slug": "ihc-explorar",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "ios": { "supportsTablet": true },
+    "android": { "adaptiveIcon": { "backgroundColor": "#4d91ff" } },
+    "web": { "bundler": "metro", "name": "Explorar" },
+    "plugins": [["expo-image-picker", { "photosPermission": "Escolha uma foto para compartilhar este lugar." }]]
+  }
+}

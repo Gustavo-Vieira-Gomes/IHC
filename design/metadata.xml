@@ -1,0 +1,1310 @@
+<canvas id="0:1" name="Design principal" x="0" y="0" width="0" height="0">
+  <frame id="1:2" name="Inicial" x="0" y="0" width="430" height="932">
+    <frame id="2:11" name="Group 2" x="0" y="0" width="430" height="587">
+      <rounded-rectangle id="2:10" name="Rectangle 1" x="0" y="0" width="430" height="587" />
+      <rounded-rectangle id="3:1787" name="image 1" x="-59" y="-48" width="548" height="683" />
+      <vector id="69:428" name="image 7" x="-22" y="-72" width="466" height="741" />
+    </frame>
+    <instance id="1:26" name="Logo" x="90" y="416" width="249" height="249" />
+    <text id="3:1789" name="VAMOS LÁ?" x="126" y="677" width="178" height="51" />
+    <frame id="3:1794" name="Frame 23" x="32" y="741" width="365" height="142">
+      <frame id="3:1792" name="Frame 21" x="0" y="0" width="365" height="61">
+        <text id="3:1790" name="ENTRAR" x="141" y="10" width="83" height="41" />
+      </frame>
+      <frame id="3:1793" name="Frame 22" x="0" y="81" width="365" height="61">
+        <text id="3:1791" name="CADASTRE-SE" x="112.5" y="10" width="140" height="41" />
+      </frame>
+    </frame>
+    <frame id="5:1800" name="Group 3" x="193" y="895" width="44" height="24">
+      <text id="5:1798" name="pular" x="196" y="895" width="38" height="19" />
+      <line id="5:1799" name="Line 3" x="193" y="919" width="44" height="0" />
+    </frame>
+  </frame>
+  <frame id="1:7" name="Buscar" x="940" y="1094" width="430" height="932">
+    <text id="56:192" name="Lugares para conhecer" x="20" y="337" width="351" height="43" />
+    <frame id="56:195" name="Frame 37" x="16" y="380" width="390" height="241">
+      <frame id="56:196" name="akar-icons:star" x="294" y="135" width="80" height="24.000301361083984">
+        <frame id="56:197" name="akar-icons:star" x="0" y="6.000150680541992" width="12" height="12" />
+        <frame id="56:199" name="akar-icons:star" x="17" y="6.000150680541992" width="12" height="12" />
+        <frame id="56:201" name="akar-icons:star" x="34" y="6.000150680541992" width="12" height="12" />
+        <frame id="56:203" name="akar-icons:star" x="51" y="6.000150680541992" width="12" height="12" />
+        <frame id="56:205" name="akar-icons:star" x="68" y="6.000150680541992" width="12" height="12" />
+      </frame>
+      <frame id="56:211" name="Group 12" x="0" y="0" width="390" height="131">
+        <rounded-rectangle id="56:212" name="Rectangle 5" x="0" y="0" width="390" height="131" />
+        <rounded-rectangle id="56:213" name="image 3" x="0" y="-57" width="390" height="293" />
+      </frame>
+      <frame id="56:214" name="Group 23" x="10" y="119" width="46" height="46">
+        <ellipse id="56:215" name="Ellipse 5" x="10" y="119" width="46" height="46" />
+        <instance id="56:216" name="at-icons:tree" x="21" y="130" width="24" height="24" />
+      </frame>
+      <text id="56:217" name="Parque Ibirapuera" x="65" y="135" width="134" height="26" />
+      <text id="56:218" name="Lorem ipsum dolor sit amet, consectetur adipiscing elit, Lorem ipsum dolor sit amet, consectetur adipiscing elit, Lorem ipsum dolor sit amet, consectetur adipiscing elit," x="16" y="174" width="358" height="51" />
+    </frame>
+    <frame id="56:221" name="Frame 47" x="16" y="646" width="390" height="241">
+      <frame id="56:222" name="akar-icons:star" x="294" y="135" width="80" height="24.000301361083984">
+        <frame id="56:223" name="akar-icons:star" x="0" y="6.000150680541992" width="12" height="12" />
+        <frame id="56:225" name="akar-icons:star" x="17" y="6.000150680541992" width="12" height="12" />
+        <frame id="56:227" name="akar-icons:star" x="34" y="6.000150680541992" width="12" height="12" />
+        <frame id="56:229" name="akar-icons:star" x="51" y="6.000150680541992" width="12" height="12" />
+        <frame id="56:231" name="akar-icons:star" x="68" y="6.000150680541992" width="12" height="12" />
+      </frame>
+      <frame id="56:237" name="Group 12" x="0" y="0" width="390" height="131">
+        <rounded-rectangle id="56:238" name="Rectangle 5" x="0" y="0" width="390" height="131" />
+        <rounded-rectangle id="56:239" name="image 3" x="0" y="-57" width="390" height="293" />
+      </frame>
+      <frame id="56:240" name="Group 23" x="10" y="119" width="46" height="46">
+        <ellipse id="56:241" name="Ellipse 5" x="10" y="119" width="46" height="46" />
+        <instance id="56:242" name="maki:amusement-park" x="21" y="130" width="24" height="24" />
+      </frame>
+      <text id="56:243" name="Vitinho Park" x="65" y="135" width="134" height="26" />
+      <text id="56:244" name="Lorem ipsum dolor sit amet, consectetur adipiscing elit, Lorem ipsum dolor sit amet, consectetur adipiscing elit, Lorem ipsum dolor sit amet, consectetur adipiscing elit," x="16" y="174" width="358" height="51" />
+    </frame>
+    <instance id="56:112" name="Group 19" x="0" y="828" width="430" height="104" />
+    <frame id="56:247" name="Frame 45" x="19" y="121" width="391" height="121.5999984741211">
+      <instance id="56:248" name="akar-icons:search" x="20.799999237060547" y="10.800000190734863" width="24" height="24" />
+      <text id="56:249" name="Pesquisar" x="54.79999923706055" y="10.800000190734863" width="71" height="21" />
+      <frame id="105:183" name="Frame 78" x="135.8000030517578" y="10.799999237060547" width="100" height="100" />
+    </frame>
+    <frame id="66:276" name="Group 43" x="19" y="233" width="390" height="84.5999984741211">
+      <frame id="66:230" name="Frame 59" x="236" y="233" width="173" height="37">
+        <text id="56:190" name="Restaurantes" x="11" y="3" width="127" height="31" />
+        <instance id="66:226" name="fluent:food-24-filled" x="138" y="6.5" width="24" height="24" />
+      </frame>
+      <frame id="66:233" name="Frame 60" x="20" y="233" width="63" height="36">
+        <text id="66:232" name="Todos" x="10" y="5" width="43" height="26" />
+      </frame>
+      <frame id="66:250" name="Frame 63" x="343" y="281" width="54" height="36">
+        <text id="66:251" name="Mais" x="10" y="5" width="34" height="26" />
+      </frame>
+      <frame id="66:247" name="Frame 61" x="19" y="280" width="152.60000610351562" height="37.599998474121094">
+        <text id="66:236" name="Natureza" x="10.800000190734863" y="2.799999952316284" width="80" height="32" />
+        <instance id="66:237" name="at-icons:tree" x="117.80000305175781" y="6.800000190734863" width="24" height="24" />
+      </frame>
+      <frame id="66:248" name="Frame 62" x="182" y="280" width="152.60000610351562" height="37.599998474121094">
+        <text id="66:243" name="Esportes" x="10.800000190734863" y="2.799999952316284" width="76" height="32" />
+        <instance id="66:244" name="coolicons:tennis-ball-fill" x="117.80000305175781" y="6.800000190734863" width="24" height="24" />
+      </frame>
+      <frame id="66:253" name="Frame 64" x="20" y="233" width="63" height="36">
+        <text id="66:254" name="Todos" x="10" y="5" width="43" height="26" />
+      </frame>
+      <frame id="66:255" name="Frame 65" x="236" y="233" width="173" height="37">
+        <text id="66:256" name="Restaurantes" x="11" y="3" width="127" height="31" />
+        <instance id="66:257" name="fluent:food-24-filled" x="138" y="6.5" width="24" height="24" />
+      </frame>
+      <frame id="66:258" name="Frame 66" x="19" y="280" width="152.60000610351562" height="37.599998474121094">
+        <text id="66:259" name="Natureza" x="10.800000190734863" y="2.799999952316284" width="80" height="32" />
+        <instance id="66:260" name="at-icons:tree" x="117.80000305175781" y="6.800000190734863" width="24" height="24" />
+      </frame>
+      <frame id="66:261" name="Frame 67" x="182" y="280" width="152.60000610351562" height="37.599998474121094">
+        <text id="66:262" name="Esportes" x="10.800000190734863" y="2.799999952316284" width="76" height="32" />
+        <instance id="66:263" name="coolicons:tennis-ball-fill" x="117.80000305175781" y="6.800000190734863" width="24" height="24" />
+      </frame>
+      <frame id="66:264" name="Frame 68" x="343" y="281" width="54" height="36">
+        <text id="66:265" name="Mais" x="10" y="5" width="34" height="26" />
+      </frame>
+    </frame>
+    <frame id="66:277" name="Group 44" x="19" y="232" width="390" height="85.5999984741211">
+      <frame id="66:278" name="Frame 59" x="236" y="233" width="173" height="37">
+        <text id="66:279" name="Restaurantes" x="11" y="3" width="127" height="31" />
+        <instance id="66:280" name="fluent:food-24-filled" x="138" y="6.5" width="24" height="24" />
+      </frame>
+      <frame id="66:281" name="Frame 60" x="20" y="233" width="63" height="36">
+        <text id="66:282" name="Todos" x="10" y="5" width="43" height="26" />
+      </frame>
+      <frame id="66:283" name="Frame 63" x="343" y="281" width="54" height="36">
+        <text id="66:284" name="Mais" x="10" y="5" width="34" height="26" />
+      </frame>
+      <frame id="66:285" name="Frame 61" x="19" y="280" width="152.60000610351562" height="37.599998474121094">
+        <text id="66:286" name="Natureza" x="10.800000190734863" y="2.799999952316284" width="80" height="32" />
+        <instance id="66:287" name="at-icons:tree" x="117.80000305175781" y="6.800000190734863" width="24" height="24" />
+      </frame>
+      <frame id="66:288" name="Frame 62" x="182" y="280" width="152.60000610351562" height="37.599998474121094">
+        <text id="66:289" name="Esportes" x="10.800000190734863" y="2.799999952316284" width="76" height="32" />
+        <instance id="66:290" name="coolicons:tennis-ball-fill" x="117.80000305175781" y="6.800000190734863" width="24" height="24" />
+      </frame>
+      <frame id="66:291" name="Frame 64" x="20" y="233" width="63" height="36">
+        <text id="66:292" name="Todos" x="10" y="5" width="43" height="26" />
+      </frame>
+      <frame id="66:293" name="Frame 65" x="236" y="233" width="173" height="37">
+        <text id="66:294" name="Restaurantes" x="11" y="3" width="127" height="31" />
+        <instance id="66:295" name="fluent:food-24-filled" x="138" y="6.5" width="24" height="24" />
+      </frame>
+      <frame id="66:296" name="Frame 66" x="19" y="280" width="152.60000610351562" height="37.599998474121094">
+        <text id="66:297" name="Natureza" x="10.800000190734863" y="2.799999952316284" width="80" height="32" />
+        <instance id="66:298" name="at-icons:tree" x="117.80000305175781" y="6.800000190734863" width="24" height="24" />
+      </frame>
+      <frame id="66:299" name="Frame 67" x="182" y="280" width="152.60000610351562" height="37.599998474121094">
+        <text id="66:300" name="Esportes" x="10.800000190734863" y="2.799999952316284" width="76" height="32" />
+        <instance id="66:301" name="coolicons:tennis-ball-fill" x="117.80000305175781" y="6.800000190734863" width="24" height="24" />
+      </frame>
+      <frame id="66:311" name="Frame 58" x="100" y="232" width="125.5999984741211" height="36.599998474121094">
+        <text id="66:312" name="Parques" x="10.800000190734863" y="2.799999952316284" width="80" height="31" />
+        <instance id="66:313" name="maki:amusement-park" x="90.80000305175781" y="6.300000190734863" width="24" height="24" />
+      </frame>
+      <frame id="66:302" name="Frame 68" x="343" y="281" width="54" height="36">
+        <text id="66:303" name="Mais" x="10" y="5" width="34" height="26" />
+      </frame>
+    </frame>
+    <text id="91:196" name="Explorar" x="22" y="40" width="194" height="52" />
+    <frame id="91:200" name="Frame" x="22" y="180" width="280" height="28">
+      <instance id="91:201" name="icon-park-solid:local-two" x="0" y="2" width="24" height="24" />
+      <text id="91:202" name="São Paulo, Brasil" x="34" y="0" width="246" height="28" />
+    </frame>
+  </frame>
+  <frame id="1:12" name="Home" x="0" y="1091" width="430" height="932">
+    <instance id="42:82" name="Frame 44" x="34" y="851" width="400" height="49" />
+    <vector id="42:166" name="image 7" x="-22" y="-72" width="466" height="741" />
+    <frame id="42:50" name="Frame 36" x="228" y="626" width="182" height="180">
+      <frame id="42:51" name="akar-icons:star" x="53" y="108" width="80" height="24.000301361083984">
+        <frame id="42:52" name="akar-icons:star" x="0" y="6.000150680541992" width="12" height="12" />
+        <frame id="42:54" name="akar-icons:star" x="17" y="6.000150680541992" width="12" height="12" />
+        <frame id="42:56" name="akar-icons:star" x="34" y="6.000150680541992" width="12" height="12" />
+        <frame id="42:58" name="akar-icons:star" x="51" y="6.000150680541992" width="12" height="12" />
+        <frame id="42:60" name="akar-icons:star" x="68" y="6.000150680541992" width="12" height="12" />
+      </frame>
+      <frame id="42:66" name="Group 12" x="0" y="0" width="226" height="95">
+        <rounded-rectangle id="42:67" name="Rectangle 5" x="0" y="0" width="226" height="95" />
+        <rounded-rectangle id="42:68" name="image 3" x="-22" y="-26" width="226" height="170" />
+      </frame>
+      <frame id="42:69" name="Group 13" x="15" y="84" width="33" height="33">
+        <ellipse id="42:70" name="Ellipse 5" x="15" y="84" width="33" height="33" />
+        <instance id="42:71" name="fluent:food-24-filled" x="19" y="89" width="24" height="24" />
+      </frame>
+      <text id="42:72" name="Pastel Gostosão" x="53" y="95" width="116" height="26" />
+      <text id="42:73" name="4.5" x="138" y="115" width="14" height="16" />
+      <text id="42:74" name="Lorem ipsum dolor sit amet, consectetur adipiscing elit," x="24" y="132" width="183" height="38" />
+    </frame>
+    <frame id="42:23" name="Frame 35" x="21" y="626" width="183" height="180">
+      <frame id="42:24" name="akar-icons:star" x="53" y="108" width="80" height="24.000301361083984">
+        <frame id="42:25" name="akar-icons:star" x="0" y="6.000150680541992" width="12" height="12" />
+        <frame id="42:27" name="akar-icons:star" x="17" y="6.000150680541992" width="12" height="12" />
+        <frame id="42:29" name="akar-icons:star" x="34" y="6.000150680541992" width="12" height="12" />
+        <frame id="42:31" name="akar-icons:star" x="51" y="6.000150680541992" width="12" height="12" />
+        <frame id="42:33" name="akar-icons:star" x="68" y="6.000150680541992" width="12" height="12" />
+      </frame>
+      <frame id="42:39" name="Group 12" x="0" y="0" width="226" height="95">
+        <rounded-rectangle id="42:40" name="Rectangle 5" x="0" y="0" width="226" height="95" />
+        <rounded-rectangle id="42:41" name="image 3" x="-21" y="-26" width="226" height="170" />
+      </frame>
+      <frame id="42:42" name="Group 13" x="15" y="84" width="33" height="33">
+        <ellipse id="42:43" name="Ellipse 5" x="15" y="84" width="33" height="33" />
+        <instance id="42:44" name="fluent:food-24-filled" x="20" y="89" width="24" height="24" />
+      </frame>
+      <text id="42:45" name="Lanche Gostoso" x="53" y="95" width="115" height="26" />
+      <text id="42:46" name="4.5" x="138" y="115" width="14" height="16" />
+      <text id="42:47" name="Lorem ipsum dolor sit amet, consectetur adipiscing elit," x="24" y="132" width="183" height="38" />
+    </frame>
+    <vector id="42:165" name="image 7" x="-850.5" y="676.946044921875" width="572" height="244.053955078125" />
+    <symbol id="66:427" name="akar-icons:circle-plus-fill" x="350" y="23" width="60" height="60" />
+    <frame id="91:188" name="Group 46" x="21" y="575" width="178" height="37">
+      <frame id="91:186" name="Frame 71" x="21" y="575" width="104" height="37">
+        <text id="91:184" name="Mais próximos" x="11" y="11" width="82" height="15" />
+      </frame>
+      <frame id="91:187" name="Frame 72" x="124" y="575" width="75" height="37">
+        <text id="91:185" name="Favoritos" x="11" y="11" width="53" height="15" />
+      </frame>
+    </frame>
+  </frame>
+  <frame id="1:3" name="Login" x="470" y="0" width="430" height="932">
+    <text id="5:1801" name="Que bom ter você de volta!" x="36" y="40" width="361" height="104" />
+    <frame id="5:1818" name="Frame 26" x="31" y="316" width="365" height="202">
+      <frame id="5:1816" name="Group 4" x="0" y="0" width="365" height="91">
+        <frame id="5:1807" name="Frame 25" x="0" y="39" width="365" height="52">
+          <text id="5:1802" name="Digite seu nome de usuário" x="20" y="10" width="249" height="32" />
+          <frame id="5:1824" name="boxicons:user-filled" x="315" y="11" width="30" height="30" />
+        </frame>
+        <text id="5:1814" name="Usuário/email" x="0" y="0" width="129" height="32" />
+      </frame>
+      <frame id="5:1817" name="Group 5" x="0" y="111" width="365" height="91">
+        <frame id="5:1806" name="Frame 24" x="0" y="150" width="365" height="52">
+          <text id="5:1805" name="Digite sua senha" x="20" y="10" width="150" height="32" />
+          <frame id="5:1826" name="akar-icons:lock-on" x="315" y="11" width="30" height="30" />
+        </frame>
+        <text id="5:1815" name="Senha" x="0" y="111" width="56" height="32" />
+      </frame>
+    </frame>
+    <frame id="6:1861" name="Frame 32" x="31" y="513" width="365" height="52">
+      <frame id="6:1833" name="Frame 27" x="5" y="0" width="152" height="52">
+        <text id="6:1830" name="Lembre de mim" x="0" y="0" width="111" height="52" />
+        <ellipse id="6:1832" name="Ellipse 2" x="121" y="16" width="20" height="20" />
+      </frame>
+      <text id="6:1831" name="Esqueceu a senha?" x="226" y="0" width="134" height="52" />
+    </frame>
+    <frame id="6:1834" name="Frame 23" x="31" y="613" width="365" height="61">
+      <text id="6:1835" name="ENTRAR" x="141" y="10" width="83" height="41" />
+    </frame>
+    <frame id="6:1840" name="Frame 28" x="32" y="717" width="363.0113525390625" height="34">
+      <line id="6:1838" name="Line 4" x="0" y="17" width="88.00568389892578" height="0" />
+      <text id="6:1837" name="Ou continue com" x="109.00568389892578" y="0" width="145" height="34" />
+      <line id="6:1839" name="Line 5" x="275.00567626953125" y="17" width="88.00568389892578" height="0" />
+    </frame>
+    <frame id="6:1857" name="Frame 31" x="56" y="778" width="315" height="54">
+      <frame id="6:1856" name="Frame 30" x="0" y="0" width="129" height="54">
+        <frame id="6:1841" name="akar-icons:google-contained-fill" x="20" y="15" width="24" height="24" />
+        <text id="6:1850" name="Google" x="48" y="10" width="61" height="34" />
+      </frame>
+      <frame id="6:1852" name="Frame 29" x="161" y="0" width="154" height="54">
+        <frame id="6:1848" name="akar-icons:instagram-fill" x="20" y="15" width="24" height="24" />
+        <text id="6:1851" name="Instagram" x="48" y="10" width="86" height="34" />
+      </frame>
+    </frame>
+    <frame id="6:1860" name="Frame 6" x="113" y="856" width="200" height="27">
+      <text id="6:1858" name="Ainda não possui uma conta?" x="0" y="0" width="200" height="27" />
+      <line id="6:1859" name="Line 6" x="1" y="24" width="198" height="0" />
+    </frame>
+  </frame>
+  <frame id="1:13" name="Ponto de Interesse" x="1410" y="1091" width="430" height="1763">
+    <rounded-rectangle id="42:138" name="image 6" x="-3" y="-38" width="436" height="436" />
+    <frame id="92:763" name="Frame 73" x="20" y="370" width="121" height="121">
+      <vector id="42:316" name="Vector" x="25" y="23" width="72" height="76" />
+    </frame>
+    <text id="42:171" name="Contatos:" x="20" y="506" width="112" height="35" />
+    <text id="42:201" name="Últimas Avaliações:" x="21" y="1458" width="231" height="39" />
+    <frame id="42:202" name="Frame 36" x="21" y="1503" width="390" height="180">
+      <frame id="42:203" name="akar-icons:star" x="80" y="31" width="80" height="24.000301361083984">
+        <frame id="42:204" name="akar-icons:star" x="0" y="6.000150680541992" width="12" height="12" />
+        <frame id="42:206" name="akar-icons:star" x="17" y="6.000150680541992" width="12" height="12" />
+        <frame id="42:208" name="akar-icons:star" x="34" y="6.000150680541992" width="12" height="12" />
+        <frame id="42:210" name="akar-icons:star" x="51" y="6.000150680541992" width="12" height="12" />
+        <frame id="42:212" name="akar-icons:star" x="68" y="6.000150680541992" width="12" height="12" />
+      </frame>
+      <text id="42:224" name="@User1" x="81" y="12" width="56" height="26" />
+      <text id="42:225" name="4.5" x="167" y="37" width="14" height="16" />
+      <text id="42:226" name="Lorem ipsum dolor sit amet, consectetur adipiscing elit, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit, Lorem ipsum dolor sit amet, consectetur adipiscing elit." x="24" y="68" width="342" height="90" />
+      <instance id="92:785" name="ci:user-02" x="18" y="12" width="43" height="43" />
+    </frame>
+    <frame id="92:788" name="Frame 74" x="28" y="1717" width="382" height="180">
+      <frame id="92:789" name="akar-icons:star" x="80" y="31" width="80" height="24.000301361083984">
+        <frame id="92:790" name="akar-icons:star" x="0" y="6.000150680541992" width="12" height="12" />
+        <frame id="92:792" name="akar-icons:star" x="17" y="6.000150680541992" width="12" height="12" />
+        <frame id="92:794" name="akar-icons:star" x="34" y="6.000150680541992" width="12" height="12" />
+        <frame id="92:796" name="akar-icons:star" x="51" y="6.000150680541992" width="12" height="12" />
+        <frame id="92:798" name="akar-icons:star" x="68" y="6.000150680541992" width="12" height="12" />
+      </frame>
+      <text id="92:804" name="@User1" x="81" y="12" width="56" height="26" />
+      <text id="92:805" name="4.5" x="167" y="37" width="14" height="16" />
+      <text id="92:806" name="Lorem ipsum dolor sit amet, consectetur adipiscing elit, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit, Lorem ipsum dolor sit amet, consectetur adipiscing elit." x="20" y="68" width="342" height="90" />
+      <instance id="92:807" name="ci:user-02" x="18" y="12" width="43" height="43" />
+    </frame>
+    <frame id="52:101" name="Group 39" x="167" y="418" width="246" height="83">
+      <text id="42:146" name="Kartódromo" x="167" y="418" width="246" height="64" />
+      <text id="46:106" name="4.5" x="323" y="475" width="22" height="26" />
+      <frame id="46:90" name="akar-icons:star" x="168" y="469" width="140" height="24.000301361083984">
+        <frame id="46:91" name="akar-icons:star" x="0" y="0.0001506805419921875" width="24" height="24" />
+        <frame id="46:93" name="akar-icons:star" x="29" y="0.0001506805419921875" width="24" height="24" />
+        <frame id="46:95" name="akar-icons:star" x="58" y="0.0001506805419921875" width="24" height="24" />
+        <frame id="46:97" name="akar-icons:star" x="87" y="0.0001506805419921875" width="24" height="24" />
+        <frame id="46:99" name="akar-icons:star" x="116" y="0.0001506805419921875" width="24" height="24" />
+      </frame>
+    </frame>
+    <instance id="45:68" name="navbar" x="-12" y="1659" width="438" height="104" />
+    <frame id="46:127" name="Frame 49" x="20" y="541" width="138" height="43">
+      <symbol id="46:122" name="ant-design:whats-app-outlined" x="0" y="2.5" width="38" height="38" />
+      <symbol id="46:117" name="ant-design:instagram-filled" x="48.5" y="0" width="43" height="43" />
+      <symbol id="46:125" name="akar-icons:phone" x="102" y="3.5" width="36" height="36" />
+    </frame>
+    <frame id="52:103" name="akar-icons:star" x="379" y="96" width="40" height="40.000301361083984">
+      <vector id="52:104" name="Vector" x="9.999556541442871" y="10" width="20.000886917114258" height="20.000301361083984" />
+    </frame>
+    <frame id="52:105" name="akar-icons:pencil" x="379" y="37" width="40" height="40">
+      <frame id="52:106" name="Group" x="11.050027847290039" y="11.049782752990723" width="17.899944305419922" height="17.900434494018555" />
+    </frame>
+    <text id="92:764" name="todos" x="369" y="1474" width="41" height="26" />
+    <frame id="92:848" name="Frame 44" x="20" y="1101" width="390" height="88.19999694824219">
+      <frame id="92:856" name="Frame 61" x="0" y="0" width="187.5" height="37.599998474121094">
+        <text id="92:857" name="Natureza" x="39.250003814697266" y="2.799999237060547" width="80" height="32" />
+        <instance id="92:858" name="at-icons:tree" x="124.25" y="6.799999237060547" width="24" height="24" />
+      </frame>
+      <frame id="92:887" name="Frame 67" x="202.5" y="0" width="187.5" height="37.599998474121094">
+        <text id="92:888" name="Esportes" x="41.250003814697266" y="2.799999237060547" width="76" height="32" />
+        <instance id="92:889" name="coolicons:tennis-ball-fill" x="122.25" y="6.799999237060547" width="24" height="24" />
+      </frame>
+      <frame id="92:873" name="Frame 58" x="0" y="51.599998474121094" width="187.5" height="36.599998474121094">
+        <text id="92:874" name="Parques" x="41.750003814697266" y="2.799999237060547" width="75" height="31" />
+        <instance id="92:875" name="maki:amusement-park" x="121.75" y="6.299999237060547" width="24" height="24" />
+      </frame>
+      <frame id="92:892" name="Frame 68" x="202.5" y="51.599998474121094" width="187.5" height="36.599998474121094">
+        <text id="92:893" name="Sugerir" x="41.750003814697266" y="2.799999237060547" width="75" height="31" />
+        <vector id="92:896" name="Vector" x="121.75" y="6.299999237060547" width="24" height="24" />
+      </frame>
+    </frame>
+    <text id="92:878" name="Categorias:" x="20" y="1063" width="187" height="34" />
+    <text id="92:1011" name="Horário de Funcionamento" x="20" y="732" width="343" height="48" />
+    <frame id="92:1012" name="Group 47" x="20" y="780" width="390" height="258">
+      <text id="92:1013" name="Seg" x="20" y="785" width="33.42856979370117" height="19" />
+      <rounded-rectangle id="92:1014" name="Rectangle 9" x="85.74285888671875" y="784" width="40.11428451538086" height="22" />
+      <ellipse id="92:1015" name="Ellipse 6" x="104.68571472167969" y="786" width="20.05714225769043" height="18" />
+      <rounded-rectangle id="92:1016" name="Rectangle 10" x="168.1999969482422" y="780" width="93.5999984741211" height="30" />
+      <text id="92:1017" name="9:00" x="194.94285583496094" y="785" width="40.11428451538086" height="19" />
+      <rounded-rectangle id="92:1018" name="Rectangle 11" x="316.3999938964844" y="780" width="93.5999984741211" height="30" />
+      <text id="92:1019" name="18:00" x="342.028564453125" y="786" width="47.91428756713867" height="19" />
+      <text id="92:1020" name="-" x="285.20001220703125" y="786" width="8.914285659790039" height="19" />
+      <text id="92:1021" name="Ter" x="20" y="823" width="28.97142791748047" height="19" />
+      <rounded-rectangle id="92:1022" name="Rectangle 12" x="85.74285888671875" y="822" width="40.11428451538086" height="22" />
+      <ellipse id="92:1023" name="Ellipse 7" x="104.68571472167969" y="824" width="20.05714225769043" height="18" />
+      <rounded-rectangle id="92:1024" name="Rectangle 13" x="168.1999969482422" y="818" width="93.5999984741211" height="30" />
+      <text id="92:1025" name="9:00" x="194.94285583496094" y="823" width="40.11428451538086" height="19" />
+      <rounded-rectangle id="92:1026" name="Rectangle 14" x="316.3999938964844" y="818" width="93.5999984741211" height="30" />
+      <text id="92:1027" name="18:00" x="342.028564453125" y="824" width="47.91428756713867" height="19" />
+      <text id="92:1028" name="-" x="285.20001220703125" y="824" width="8.914285659790039" height="19" />
+      <text id="92:1029" name="Sex" x="20" y="937" width="32.31428527832031" height="19" />
+      <rounded-rectangle id="92:1030" name="Rectangle 21" x="85.74285888671875" y="936" width="40.11428451538086" height="22" />
+      <ellipse id="92:1031" name="Ellipse 10" x="104.68571472167969" y="938" width="20.05714225769043" height="18" />
+      <rounded-rectangle id="92:1032" name="Rectangle 22" x="168.1999969482422" y="932" width="93.5999984741211" height="30" />
+      <text id="92:1033" name="9:00" x="194.94285583496094" y="937" width="40.11428451538086" height="19" />
+      <rounded-rectangle id="92:1034" name="Rectangle 23" x="316.3999938964844" y="932" width="93.5999984741211" height="30" />
+      <text id="92:1035" name="18:00" x="342.028564453125" y="938" width="47.91428756713867" height="19" />
+      <text id="92:1036" name="-" x="285.20001220703125" y="938" width="8.914285659790039" height="19" />
+      <text id="92:1037" name="Sáb" x="20" y="975" width="33.42856979370117" height="19" />
+      <rounded-rectangle id="92:1038" name="Rectangle 24" x="85.74285888671875" y="974" width="40.11428451538086" height="22" />
+      <ellipse id="92:1039" name="Ellipse 11" x="104.68571472167969" y="976" width="20.05714225769043" height="18" />
+      <rounded-rectangle id="92:1040" name="Rectangle 25" x="168.1999969482422" y="970" width="93.5999984741211" height="30" />
+      <text id="92:1041" name="9:00" x="194.94285583496094" y="975" width="40.11428451538086" height="19" />
+      <rounded-rectangle id="92:1042" name="Rectangle 26" x="316.3999938964844" y="970" width="93.5999984741211" height="30" />
+      <text id="92:1043" name="18:00" x="342.028564453125" y="976" width="47.91428756713867" height="19" />
+      <text id="92:1044" name="-" x="285.20001220703125" y="976" width="8.914285659790039" height="19" />
+      <text id="92:1045" name="Dom" x="20" y="1013" width="40.11428451538086" height="19" />
+      <rounded-rectangle id="92:1046" name="Rectangle 27" x="85.74285888671875" y="1012" width="40.11428451538086" height="22" />
+      <vector id="92:1047" name="Ellipse 12" x="87.97142791748047" y="1014" width="20.05714225769043" height="18" />
+      <rounded-rectangle id="92:1048" name="Rectangle 28" x="168.1999969482422" y="1008" width="241.8000030517578" height="30" />
+      <text id="92:1049" name="Fechado" x="252.88571166992188" y="1013" width="73.54285430908203" height="19" />
+      <text id="92:1050" name="Qua" x="20" y="861" width="35.657142639160156" height="19" />
+      <rounded-rectangle id="92:1051" name="Rectangle 15" x="85.74285888671875" y="860" width="40.11428451538086" height="22" />
+      <ellipse id="92:1052" name="Ellipse 8" x="104.68571472167969" y="862" width="20.05714225769043" height="18" />
+      <rounded-rectangle id="92:1053" name="Rectangle 16" x="168.1999969482422" y="856" width="93.5999984741211" height="30" />
+      <text id="92:1054" name="9:00" x="194.94285583496094" y="861" width="40.11428451538086" height="19" />
+      <rounded-rectangle id="92:1055" name="Rectangle 17" x="316.3999938964844" y="856" width="93.5999984741211" height="30" />
+      <text id="92:1056" name="18:00" x="342.028564453125" y="862" width="47.91428756713867" height="19" />
+      <text id="92:1057" name="-" x="285.20001220703125" y="862" width="8.914285659790039" height="19" />
+      <text id="92:1058" name="Qui" x="20" y="899" width="30.08571434020996" height="19" />
+      <rounded-rectangle id="92:1059" name="Rectangle 18" x="85.74285888671875" y="898" width="40.11428451538086" height="22" />
+      <ellipse id="92:1060" name="Ellipse 9" x="104.68571472167969" y="900" width="20.05714225769043" height="18" />
+      <rounded-rectangle id="92:1061" name="Rectangle 19" x="168.1999969482422" y="894" width="93.5999984741211" height="30" />
+      <text id="92:1062" name="9:00" x="194.94285583496094" y="899" width="40.11428451538086" height="19" />
+      <rounded-rectangle id="92:1063" name="Rectangle 20" x="316.3999938964844" y="894" width="93.5999984741211" height="30" />
+      <text id="92:1064" name="18:00" x="342.028564453125" y="900" width="47.91428756713867" height="19" />
+      <text id="92:1065" name="-" x="285.20001220703125" y="900" width="8.914285659790039" height="19" />
+    </frame>
+    <text id="92:1067" name="Quanto você pagou?" x="20" y="610" width="329" height="48" />
+    <frame id="92:1068" name="Frame 39" x="20" y="658" width="390" height="49">
+      <frame id="92:1069" name="Frame 15" x="0" y="0" width="105" height="49">
+        <text id="92:1070" name="R$ 0-30" x="20" y="15" width="65" height="19" />
+      </frame>
+      <frame id="92:1071" name="Frame 38" x="140" y="0" width="116" height="49">
+        <text id="92:1072" name="R$ 30-60" x="20" y="15" width="76" height="19" />
+      </frame>
+      <frame id="92:1073" name="Frame 15" x="291" y="0" width="98" height="49">
+        <text id="92:1074" name="R$ 60+" x="20" y="15" width="58" height="19" />
+      </frame>
+    </frame>
+    <text id="92:1076" name="Outros locais próximos:" x="20" y="1214" width="276" height="39" />
+    <frame id="92:1077" name="Frame 35" x="21" y="1253" width="226" height="180">
+      <frame id="92:1078" name="akar-icons:star" x="53" y="108" width="80" height="24.000301361083984">
+        <frame id="92:1079" name="akar-icons:star" x="0" y="6.000150680541992" width="12" height="12" />
+        <frame id="92:1081" name="akar-icons:star" x="17" y="6.000150680541992" width="12" height="12" />
+        <frame id="92:1083" name="akar-icons:star" x="34" y="6.000150680541992" width="12" height="12" />
+        <frame id="92:1085" name="akar-icons:star" x="51" y="6.000150680541992" width="12" height="12" />
+        <frame id="92:1087" name="akar-icons:star" x="68" y="6.000150680541992" width="12" height="12" />
+      </frame>
+      <frame id="92:1093" name="Group 12" x="0" y="0" width="226" height="95">
+        <rounded-rectangle id="92:1094" name="Rectangle 5" x="0" y="0" width="226" height="95" />
+        <rounded-rectangle id="92:1095" name="image 3" x="0" y="-26" width="226" height="170" />
+      </frame>
+      <frame id="92:1096" name="Group 13" x="15" y="84" width="33" height="33">
+        <ellipse id="92:1097" name="Ellipse 5" x="15" y="84" width="33" height="33" />
+        <instance id="92:1098" name="fluent:food-24-filled" x="20" y="89" width="24" height="24" />
+      </frame>
+      <text id="92:1099" name="Pastel Gostosão" x="53" y="95" width="116" height="26" />
+      <text id="92:1100" name="4.5" x="138" y="115" width="14" height="16" />
+      <text id="92:1101" name="Lorem ipsum dolor sit amet, consectetur adipiscing elit," x="24" y="132" width="183" height="38" />
+    </frame>
+    <frame id="92:1102" name="Frame 75" x="267" y="1254" width="226" height="180">
+      <frame id="92:1103" name="akar-icons:star" x="53" y="108" width="80" height="24.000301361083984">
+        <frame id="92:1104" name="akar-icons:star" x="0" y="6.000150680541992" width="12" height="12" />
+        <frame id="92:1106" name="akar-icons:star" x="17" y="6.000150680541992" width="12" height="12" />
+        <frame id="92:1108" name="akar-icons:star" x="34" y="6.000150680541992" width="12" height="12" />
+        <frame id="92:1110" name="akar-icons:star" x="51" y="6.000150680541992" width="12" height="12" />
+        <frame id="92:1112" name="akar-icons:star" x="68" y="6.000150680541992" width="12" height="12" />
+      </frame>
+      <frame id="92:1118" name="Group 12" x="0" y="0" width="226" height="95">
+        <rounded-rectangle id="92:1119" name="Rectangle 5" x="0" y="0" width="226" height="95" />
+        <rounded-rectangle id="92:1120" name="image 3" x="0" y="-26" width="226" height="170" />
+      </frame>
+      <frame id="92:1121" name="Group 13" x="15" y="84" width="33" height="33">
+        <ellipse id="92:1122" name="Ellipse 5" x="15" y="84" width="33" height="33" />
+        <instance id="92:1123" name="maki:museum" x="20" y="89" width="24" height="24" />
+      </frame>
+      <text id="92:1124" name="Museu de Vassouras" x="53" y="95" width="148" height="26" />
+      <text id="92:1125" name="4.5" x="138" y="115" width="14" height="16" />
+      <text id="92:1126" name="Lorem ipsum dolor sit amet, consectetur adipiscing elit," x="24" y="132" width="183" height="38" />
+    </frame>
+    <text id="92:1127" name="todos" x="368" y="1221" width="41" height="26" />
+  </frame>
+  <frame id="1:4" name="Cadastro" x="940" y="0" width="430" height="932">
+    <frame id="10:4" name="Frame 26" x="33" y="202" width="365" height="313">
+      <frame id="10:5" name="Group 4" x="0" y="0" width="365" height="91">
+        <frame id="10:6" name="Frame 25" x="0" y="39" width="365" height="52">
+          <text id="10:7" name="Insira um nome de usuário" x="20" y="10" width="245" height="32" />
+          <frame id="10:8" name="boxicons:user-filled" x="315" y="11" width="30" height="30" />
+        </frame>
+        <text id="10:10" name="Usuário/email" x="0" y="0" width="129" height="32" />
+      </frame>
+      <frame id="10:11" name="Group 5" x="0" y="111" width="365" height="91">
+        <frame id="10:12" name="Frame 24" x="0" y="150" width="365" height="52">
+          <text id="10:13" name="Insira sua senha" x="20" y="10" width="147" height="32" />
+          <frame id="10:14" name="akar-icons:lock-on" x="315" y="11" width="30" height="30" />
+        </frame>
+        <text id="10:18" name="Senha" x="0" y="111" width="56" height="32" />
+      </frame>
+      <frame id="11:48" name="Group 6" x="0" y="222" width="365" height="91">
+        <frame id="11:49" name="Frame 24" x="0" y="261" width="365" height="52">
+          <text id="11:50" name="Confirme sua senha" x="20" y="10" width="181" height="32" />
+          <frame id="11:51" name="akar-icons:lock-on" x="315" y="11" width="30" height="30" />
+        </frame>
+        <text id="11:55" name="Confirmação" x="0" y="222" width="117" height="32" />
+      </frame>
+    </frame>
+    <frame id="10:24" name="Frame 23" x="33" y="615" width="365" height="61">
+      <text id="10:25" name="CRIAR CONTA" x="112" y="10" width="141" height="41" />
+    </frame>
+    <frame id="10:26" name="Frame 28" x="33" y="716" width="363.0113525390625" height="34">
+      <line id="10:27" name="Line 4" x="0" y="17" width="88.00568389892578" height="0" />
+      <text id="10:28" name="Ou continue com" x="109.00568389892578" y="0" width="145" height="34" />
+      <line id="10:29" name="Line 5" x="275.00567626953125" y="17" width="88.00568389892578" height="0" />
+    </frame>
+    <frame id="10:30" name="Frame 31" x="58" y="777" width="315" height="54">
+      <frame id="10:31" name="Frame 30" x="0" y="0" width="129" height="54">
+        <frame id="10:32" name="akar-icons:google-contained-fill" x="20" y="15" width="24" height="24" />
+        <text id="10:39" name="Google" x="48" y="10" width="61" height="34" />
+      </frame>
+      <frame id="10:40" name="Frame 29" x="161" y="0" width="154" height="54">
+        <frame id="10:41" name="akar-icons:instagram-fill" x="20" y="15" width="24" height="24" />
+        <text id="10:43" name="Instagram" x="48" y="10" width="86" height="34" />
+      </frame>
+    </frame>
+    <frame id="10:44" name="Group 6" x="159" y="856" width="112" height="27">
+      <text id="10:45" name="Já possui conta?" x="159" y="856" width="112" height="27" />
+      <line id="10:46" name="Line 6" x="160" y="880" width="111" height="0" />
+    </frame>
+    <frame id="11:66" name="Frame 33" x="83" y="536" width="265" height="26">
+      <rounded-rectangle id="11:65" name="Rectangle 2" x="0" y="0" width="22" height="22" />
+      <text id="11:64" name="Li e aceito os termos e condições" x="32" y="0" width="233" height="26" />
+    </frame>
+    <line id="11:67" name="Line 7" x="157" y="556" width="133" height="0" />
+    <text id="11:68" name="Olá, que bom ter você aqui!" x="27" y="40" width="377" height="104" />
+  </frame>
+  <frame id="1:14" name="Adicionar Ponto" x="470" y="1094" width="430" height="1272">
+    <text id="48:131" name="Adicionando ponto" x="20" y="40" width="390" height="104" />
+    <frame id="92:660" name="Group 48" x="20" y="364" width="390" height="181">
+      <text id="48:134" name="Descrição" x="20" y="364" width="144.629150390625" height="34" />
+      <frame id="48:187" name="Group 31" x="20.997442483901978" y="398" width="389.0025634765625" height="147">
+        <rounded-rectangle id="48:147" name="Rectangle 31" x="20.997442483901978" y="398" width="389.0025634765625" height="147" />
+        <text id="48:149" name="Lorem ipsum dolor sit amet, consectetur adipiscing elit," x="42.94118332862854" y="418" width="348.107421875" height="64" />
+      </frame>
+    </frame>
+    <rounded-rectangle id="48:190" name="Rectangle 34" x="169" y="441" width="2" height="3" />
+    <text id="92:661" name="Quanto você pagou?" x="20" y="570" width="329" height="48" />
+    <text id="92:662" name="Horário de Funcionamento" x="20" y="692" width="343" height="48" />
+    <frame id="92:663" name="Frame 39" x="20" y="618" width="390" height="49">
+      <frame id="92:664" name="Frame 15" x="0" y="0" width="105" height="49">
+        <text id="92:665" name="R$ 0-30" x="20" y="15" width="65" height="19" />
+      </frame>
+      <frame id="92:666" name="Frame 38" x="140" y="0" width="116" height="49">
+        <text id="92:667" name="R$ 30-60" x="20" y="15" width="76" height="19" />
+      </frame>
+      <frame id="92:668" name="Frame 15" x="291" y="0" width="98" height="49">
+        <text id="92:669" name="R$ 60+" x="20" y="15" width="58" height="19" />
+      </frame>
+    </frame>
+    <frame id="92:670" name="Group 47" x="20" y="740" width="390" height="258">
+      <text id="92:671" name="Seg" x="20" y="745" width="33.42856979370117" height="19" />
+      <rounded-rectangle id="92:672" name="Rectangle 9" x="85.74285888671875" y="744" width="40.11428451538086" height="22" />
+      <ellipse id="92:673" name="Ellipse 6" x="104.68571472167969" y="746" width="20.05714225769043" height="18" />
+      <rounded-rectangle id="92:674" name="Rectangle 10" x="168.1999969482422" y="740" width="93.5999984741211" height="30" />
+      <text id="92:675" name="9:00" x="194.94285583496094" y="745" width="40.11428451538086" height="19" />
+      <rounded-rectangle id="92:676" name="Rectangle 11" x="316.3999938964844" y="740" width="93.5999984741211" height="30" />
+      <text id="92:677" name="18:00" x="342.028564453125" y="746" width="47.91428756713867" height="19" />
+      <text id="92:678" name="-" x="285.20001220703125" y="746" width="8.914285659790039" height="19" />
+      <text id="92:679" name="Ter" x="20" y="783" width="28.97142791748047" height="19" />
+      <rounded-rectangle id="92:680" name="Rectangle 12" x="85.74285888671875" y="782" width="40.11428451538086" height="22" />
+      <ellipse id="92:681" name="Ellipse 7" x="104.68571472167969" y="784" width="20.05714225769043" height="18" />
+      <rounded-rectangle id="92:682" name="Rectangle 13" x="168.1999969482422" y="778" width="93.5999984741211" height="30" />
+      <text id="92:683" name="9:00" x="194.94285583496094" y="783" width="40.11428451538086" height="19" />
+      <rounded-rectangle id="92:684" name="Rectangle 14" x="316.3999938964844" y="778" width="93.5999984741211" height="30" />
+      <text id="92:685" name="18:00" x="342.028564453125" y="784" width="47.91428756713867" height="19" />
+      <text id="92:686" name="-" x="285.20001220703125" y="784" width="8.914285659790039" height="19" />
+      <text id="92:687" name="Sex" x="20" y="897" width="32.31428527832031" height="19" />
+      <rounded-rectangle id="92:688" name="Rectangle 21" x="85.74285888671875" y="896" width="40.11428451538086" height="22" />
+      <ellipse id="92:689" name="Ellipse 10" x="104.68571472167969" y="898" width="20.05714225769043" height="18" />
+      <rounded-rectangle id="92:690" name="Rectangle 22" x="168.1999969482422" y="892" width="93.5999984741211" height="30" />
+      <text id="92:691" name="9:00" x="194.94285583496094" y="897" width="40.11428451538086" height="19" />
+      <rounded-rectangle id="92:692" name="Rectangle 23" x="316.3999938964844" y="892" width="93.5999984741211" height="30" />
+      <text id="92:693" name="18:00" x="342.028564453125" y="898" width="47.91428756713867" height="19" />
+      <text id="92:694" name="-" x="285.20001220703125" y="898" width="8.914285659790039" height="19" />
+      <text id="92:695" name="Sáb" x="20" y="935" width="33.42856979370117" height="19" />
+      <rounded-rectangle id="92:696" name="Rectangle 24" x="85.74285888671875" y="934" width="40.11428451538086" height="22" />
+      <ellipse id="92:697" name="Ellipse 11" x="104.68571472167969" y="936" width="20.05714225769043" height="18" />
+      <rounded-rectangle id="92:698" name="Rectangle 25" x="168.1999969482422" y="930" width="93.5999984741211" height="30" />
+      <text id="92:699" name="9:00" x="194.94285583496094" y="935" width="40.11428451538086" height="19" />
+      <rounded-rectangle id="92:700" name="Rectangle 26" x="316.3999938964844" y="930" width="93.5999984741211" height="30" />
+      <text id="92:701" name="18:00" x="342.028564453125" y="936" width="47.91428756713867" height="19" />
+      <text id="92:702" name="-" x="285.20001220703125" y="936" width="8.914285659790039" height="19" />
+      <text id="92:703" name="Dom" x="20" y="973" width="40.11428451538086" height="19" />
+      <rounded-rectangle id="92:704" name="Rectangle 27" x="85.74285888671875" y="972" width="40.11428451538086" height="22" />
+      <vector id="92:705" name="Ellipse 12" x="87.97142791748047" y="974" width="20.05714225769043" height="18" />
+      <rounded-rectangle id="92:706" name="Rectangle 28" x="168.1999969482422" y="968" width="241.8000030517578" height="30" />
+      <text id="92:707" name="Fechado" x="252.88571166992188" y="973" width="73.54285430908203" height="19" />
+      <text id="92:708" name="Qua" x="20" y="821" width="35.657142639160156" height="19" />
+      <rounded-rectangle id="92:709" name="Rectangle 15" x="85.74285888671875" y="820" width="40.11428451538086" height="22" />
+      <ellipse id="92:710" name="Ellipse 8" x="104.68571472167969" y="822" width="20.05714225769043" height="18" />
+      <rounded-rectangle id="92:711" name="Rectangle 16" x="168.1999969482422" y="816" width="93.5999984741211" height="30" />
+      <text id="92:712" name="9:00" x="194.94285583496094" y="821" width="40.11428451538086" height="19" />
+      <rounded-rectangle id="92:713" name="Rectangle 17" x="316.3999938964844" y="816" width="93.5999984741211" height="30" />
+      <text id="92:714" name="18:00" x="342.028564453125" y="822" width="47.91428756713867" height="19" />
+      <text id="92:715" name="-" x="285.20001220703125" y="822" width="8.914285659790039" height="19" />
+      <text id="92:716" name="Qui" x="20" y="859" width="30.08571434020996" height="19" />
+      <rounded-rectangle id="92:717" name="Rectangle 18" x="85.74285888671875" y="858" width="40.11428451538086" height="22" />
+      <ellipse id="92:718" name="Ellipse 9" x="104.68571472167969" y="860" width="20.05714225769043" height="18" />
+      <rounded-rectangle id="92:719" name="Rectangle 19" x="168.1999969482422" y="854" width="93.5999984741211" height="30" />
+      <text id="92:720" name="9:00" x="194.94285583496094" y="859" width="40.11428451538086" height="19" />
+      <rounded-rectangle id="92:721" name="Rectangle 20" x="316.3999938964844" y="854" width="93.5999984741211" height="30" />
+      <text id="92:722" name="18:00" x="342.028564453125" y="860" width="47.91428756713867" height="19" />
+      <text id="92:723" name="-" x="285.20001220703125" y="860" width="8.914285659790039" height="19" />
+    </frame>
+    <frame id="92:724" name="Group 44" x="20" y="1057" width="390" height="85.5999984741211">
+      <frame id="92:725" name="Frame 59" x="237" y="1058" width="173" height="37">
+        <text id="92:726" name="Restaurantes" x="11" y="3" width="127" height="31" />
+        <instance id="92:727" name="fluent:food-24-filled" x="138" y="6.5" width="24" height="24" />
+      </frame>
+      <frame id="92:728" name="Frame 60" x="21" y="1058" width="63" height="36">
+        <text id="92:729" name="Todos" x="10" y="5" width="43" height="26" />
+      </frame>
+      <frame id="92:730" name="Frame 63" x="344" y="1106" width="54" height="36">
+        <text id="92:731" name="Mais" x="10" y="5" width="34" height="26" />
+      </frame>
+      <frame id="92:732" name="Frame 61" x="20" y="1105" width="152.60000610351562" height="37.599998474121094">
+        <text id="92:733" name="Natureza" x="10.800000190734863" y="2.799999952316284" width="80" height="32" />
+        <instance id="92:734" name="at-icons:tree" x="117.80000305175781" y="6.800000190734863" width="24" height="24" />
+      </frame>
+      <frame id="92:735" name="Frame 62" x="183" y="1105" width="152.60000610351562" height="37.599998474121094">
+        <text id="92:736" name="Esportes" x="10.800000190734863" y="2.799999952316284" width="76" height="32" />
+        <instance id="92:737" name="coolicons:tennis-ball-fill" x="117.80000305175781" y="6.800000190734863" width="24" height="24" />
+      </frame>
+      <frame id="92:738" name="Frame 64" x="21" y="1058" width="63" height="36">
+        <text id="92:739" name="Todos" x="10" y="5" width="43" height="26" />
+      </frame>
+      <frame id="92:740" name="Frame 65" x="237" y="1058" width="173" height="37">
+        <text id="92:741" name="Restaurantes" x="11" y="3" width="127" height="31" />
+        <instance id="92:742" name="fluent:food-24-filled" x="138" y="6.5" width="24" height="24" />
+      </frame>
+      <frame id="92:743" name="Frame 66" x="20" y="1105" width="152.60000610351562" height="37.599998474121094">
+        <text id="92:744" name="Natureza" x="10.800000190734863" y="2.799999952316284" width="80" height="32" />
+        <instance id="92:745" name="at-icons:tree" x="117.80000305175781" y="6.800000190734863" width="24" height="24" />
+      </frame>
+      <frame id="92:746" name="Frame 67" x="183" y="1105" width="152.60000610351562" height="37.599998474121094">
+        <text id="92:747" name="Esportes" x="10.800000190734863" y="2.799999952316284" width="76" height="32" />
+        <instance id="92:748" name="coolicons:tennis-ball-fill" x="117.80000305175781" y="6.800000190734863" width="24" height="24" />
+      </frame>
+      <frame id="92:749" name="Frame 58" x="101" y="1057" width="125.5999984741211" height="36.599998474121094">
+        <text id="92:750" name="Parques" x="10.800000190734863" y="2.799999952316284" width="80" height="31" />
+        <instance id="92:751" name="maki:amusement-park" x="90.80000305175781" y="6.300000190734863" width="24" height="24" />
+      </frame>
+      <frame id="92:752" name="Frame 68" x="344" y="1106" width="54" height="36">
+        <text id="92:753" name="Mais" x="10" y="5" width="34" height="26" />
+      </frame>
+    </frame>
+    <text id="92:754" name="Categorias:" x="20" y="1023" width="187" height="34" />
+    <instance id="48:135" name="navbar" x="-4" y="1168" width="438" height="104" />
+    <frame id="92:1165" name="Group 41" x="20" y="163" width="390" height="176">
+      <rounded-rectangle id="92:1166" name="Rectangle 32" x="20" y="163" width="390" height="176" />
+      <text id="92:1167" name="Adicione uma foto" x="136" y="269" width="192" height="20" />
+      <frame id="92:1168" name="andrsrxn:camera" x="185" y="205" width="59.800838470458984" height="59.800838470458984" />
+    </frame>
+  </frame>
+  <frame id="66:354" name="Avaliação" x="2350" y="1094" width="430" height="932">
+    <text id="66:355" name="Avalie:" x="20" y="40" width="390" height="52" />
+    <instance id="66:357" name="navbar" x="-4" y="828" width="438" height="104" />
+    <frame id="66:421" name="Group 45" x="20" y="226" width="390" height="181">
+      <text id="66:356" name="Deixe sua opinião:" x="20" y="226" width="275" height="34" />
+      <frame id="66:358" name="Group 31" x="20" y="260" width="390" height="147">
+        <rounded-rectangle id="66:359" name="Rectangle 31" x="20" y="260" width="390" height="147" />
+        <text id="66:360" name="Lorem ipsum dolor sit amet, consectetur adipiscing elit," x="41.52597427368164" y="280" width="349.48052978515625" height="26" />
+      </frame>
+    </frame>
+    <frame id="66:420" name="Frame 69" x="20" y="117" width="390" height="72">
+      <frame id="66:418" name="akar-icons:star" x="13.5" y="0" width="72" height="72" />
+      <frame id="66:409" name="akar-icons:star" x="85.5" y="0" width="73" height="72" />
+      <frame id="66:411" name="akar-icons:star" x="158.5" y="0" width="73" height="72" />
+      <frame id="66:413" name="akar-icons:star" x="231.5" y="0" width="73" height="72" />
+      <frame id="66:415" name="akar-icons:star" x="304.5" y="0" width="72" height="72" />
+    </frame>
+    <frame id="66:375" name="Group 41" x="20" y="471" width="390" height="176">
+      <rounded-rectangle id="66:376" name="Rectangle 32" x="20" y="471" width="390" height="176" />
+      <text id="66:377" name="Adicione uma foto" x="136" y="593" width="192" height="20" />
+      <frame id="92:1138" name="andrsrxn:camera" x="185" y="529" width="59.800838470458984" height="59.800838470458984" />
+    </frame>
+    <text id="66:422" name="Mostre o que viu" x="20" y="432" width="195" height="39" />
+    <frame id="66:424" name="Frame 70" x="20" y="744" width="390" height="59">
+      <text id="66:423" name="AVALIE" x="155" y="10" width="80" height="39" />
+    </frame>
+  </frame>
+  <frame id="1:5" name="Perfil" x="1410" y="0" width="430" height="932">
+    <rounded-rectangle id="13:74" name="Rectangle 3" x="-39" y="73" width="469" height="873" />
+    <text id="13:75" name="João Pedro Neves" x="207" y="115" width="203" height="39" />
+    <frame id="13:87" name="akar-icons:star" x="270" y="150" width="140" height="24.000301361083984">
+      <frame id="13:76" name="akar-icons:star" x="0" y="0" width="24" height="24.000301361083984">
+        <vector id="13:77" name="Vector" x="2" y="2" width="20.000886917114258" height="20.000301361083984" />
+      </frame>
+      <frame id="13:81" name="akar-icons:star" x="29" y="0.0001506805419921875" width="24" height="24" />
+      <frame id="13:88" name="akar-icons:star" x="58" y="0.0001506805419921875" width="24" height="24" />
+      <frame id="13:90" name="akar-icons:star" x="87" y="0.0001506805419921875" width="24" height="24" />
+      <frame id="13:85" name="akar-icons:star" x="116" y="0.0001506805419921875" width="24" height="24" />
+    </frame>
+    <frame id="13:100" name="Group 9" x="20" y="47" width="179" height="184">
+      <frame id="13:73" name="Group 7" x="20" y="47" width="179" height="179">
+        <ellipse id="13:69" name="Ellipse 3" x="20" y="47" width="179" height="179" />
+        <rounded-rectangle id="13:71" name="image 2" x="-39" y="-26" width="252" height="503" />
+      </frame>
+      <frame id="13:96" name="Group 8" x="30" y="186" width="45" height="45" />
+    </frame>
+    <text id="19:11" name="Meus pontos de interesse:" x="21" y="645" width="305" height="39" />
+    <frame id="18:5" name="Group 10" x="20" y="250" width="390" height="62">
+      <rounded-rectangle id="13:99" name="Rectangle 4" x="20" y="250" width="390" height="62" />
+      <text id="18:4" name="“Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. “" x="32" y="266" width="366" height="30" />
+    </frame>
+    <frame id="19:14" name="Frame 34" x="226" y="186" width="183" height="49">
+      <text id="19:12" name="Favoritos" x="20" y="10" width="109" height="29" />
+      <frame id="19:15" name="andrsrxn:heart-filled" x="139" y="15" width="24" height="24" />
+    </frame>
+    <frame id="26:61" name="Group 11" x="20" y="460" width="420" height="165">
+      <text id="19:10" name="Minhas avaliações:" x="20" y="460" width="223" height="39" />
+      <frame id="19:19" name="Frame 35" x="20" y="499" width="226" height="126">
+        <frame id="19:20" name="akar-icons:star" x="63" y="16" width="140" height="24.000301361083984">
+          <frame id="19:21" name="akar-icons:star" x="0" y="0" width="24" height="24.000301361083984">
+            <vector id="19:22" name="Vector" x="2" y="2" width="20.000886917114258" height="20.000301361083984" />
+          </frame>
+          <frame id="19:23" name="akar-icons:star" x="29" y="0.0001506805419921875" width="24" height="24" />
+          <frame id="19:25" name="akar-icons:star" x="58" y="0.0001506805419921875" width="24" height="24" />
+          <frame id="19:27" name="akar-icons:star" x="87" y="0.0001506805419921875" width="24" height="24" />
+          <frame id="19:29" name="akar-icons:star" x="116" y="0.0001506805419921875" width="24" height="24" />
+        </frame>
+        <frame id="19:34" name="Group 7" x="10" y="16" width="40" height="40">
+          <ellipse id="19:35" name="Ellipse 3" x="10" y="16" width="40" height="40" />
+          <rounded-rectangle id="19:36" name="image 2" x="0.8156766891479492" y="-0.31282997131347656" width="56.256980895996094" height="112.51396179199219" />
+        </frame>
+        <text id="19:39" name="Parque Ibirapuera" x="65" y="44" width="102" height="19" />
+        <text id="19:40" name="Lorem ipsum dolor sit amet, consectetur adipiscing elit," x="16" y="73" width="183" height="38" />
+      </frame>
+      <frame id="19:41" name="Frame 36" x="268" y="499" width="172" height="126">
+        <frame id="19:42" name="akar-icons:star" x="63" y="16" width="140" height="24.000301361083984">
+          <frame id="19:43" name="akar-icons:star" x="0" y="0" width="24" height="24.000301361083984">
+            <vector id="19:44" name="Vector" x="2" y="2" width="20.000886917114258" height="20.000301361083984" />
+          </frame>
+          <frame id="19:45" name="akar-icons:star" x="29" y="0.0001506805419921875" width="24" height="24" />
+          <frame id="19:47" name="akar-icons:star" x="58" y="0.0001506805419921875" width="24" height="24" />
+          <frame id="19:49" name="akar-icons:star" x="87" y="0.0001506805419921875" width="24" height="24" />
+          <frame id="19:51" name="akar-icons:star" x="116" y="0.0001506805419921875" width="24" height="24" />
+        </frame>
+        <frame id="19:53" name="Group 7" x="10" y="16" width="40" height="40">
+          <ellipse id="19:54" name="Ellipse 3" x="10" y="16" width="40" height="40" />
+          <rounded-rectangle id="19:55" name="image 2" x="2" y="0" width="56.256980895996094" height="112.51396179199219" />
+        </frame>
+        <text id="19:56" name="Parque Ibirapuera" x="65" y="44" width="102" height="19" />
+        <text id="19:57" name="Lorem ipsum dolor sit amet, consectetur adipiscing elit," x="16" y="73" width="183" height="38" />
+      </frame>
+    </frame>
+    <frame id="91:560" name="Frame 37" x="20" y="499" width="226" height="126">
+      <frame id="91:561" name="akar-icons:star" x="63" y="16" width="140" height="24.000301361083984">
+        <frame id="91:562" name="akar-icons:star" x="0" y="0" width="24" height="24.000301361083984">
+          <vector id="91:563" name="Vector" x="2" y="2" width="20.000886917114258" height="20.000301361083984" />
+        </frame>
+        <frame id="91:564" name="akar-icons:star" x="29" y="0.0001506805419921875" width="24" height="24" />
+        <frame id="91:566" name="akar-icons:star" x="58" y="0.0001506805419921875" width="24" height="24" />
+        <frame id="91:568" name="akar-icons:star" x="87" y="0.0001506805419921875" width="24" height="24" />
+        <frame id="91:570" name="akar-icons:star" x="116" y="0.0001506805419921875" width="24" height="24" />
+      </frame>
+      <frame id="91:572" name="Group 7" x="10" y="16" width="40" height="40">
+        <ellipse id="91:573" name="Ellipse 3" x="10" y="16" width="40" height="40" />
+        <rounded-rectangle id="91:574" name="image 2" x="0.8156766891479492" y="-0.31282997131347656" width="56.256980895996094" height="112.51396179199219" />
+      </frame>
+      <text id="91:575" name="Parque Ibirapuera" x="65" y="44" width="102" height="19" />
+      <text id="91:576" name="Lorem ipsum dolor sit amet, consectetur adipiscing elit," x="16" y="73" width="183" height="38" />
+    </frame>
+    <frame id="27:62" name="Frame 35" x="22" y="684" width="226" height="180">
+      <frame id="27:63" name="akar-icons:star" x="53" y="108" width="80" height="24.000301361083984">
+        <frame id="27:64" name="akar-icons:star" x="0" y="6.000150680541992" width="12" height="12" />
+        <frame id="27:66" name="akar-icons:star" x="17" y="6.000150680541992" width="12" height="12" />
+        <frame id="27:68" name="akar-icons:star" x="34" y="6.000150680541992" width="12" height="12" />
+        <frame id="27:70" name="akar-icons:star" x="51" y="6.000150680541992" width="12" height="12" />
+        <frame id="27:72" name="akar-icons:star" x="68" y="6.000150680541992" width="12" height="12" />
+      </frame>
+      <frame id="27:88" name="Group 12" x="0" y="0" width="226" height="95">
+        <rounded-rectangle id="27:87" name="Rectangle 5" x="0" y="0" width="226" height="95" />
+        <rounded-rectangle id="27:81" name="image 3" x="0" y="-26" width="226" height="170" />
+      </frame>
+      <frame id="27:93" name="Group 13" x="15" y="84" width="33" height="33">
+        <ellipse id="27:92" name="Ellipse 5" x="15" y="84" width="33" height="33" />
+        <symbol id="27:91" name="fluent:food-24-filled" x="20" y="89" width="24" height="24" />
+      </frame>
+      <text id="28:98" name="Pastel Gostosão" x="53" y="95" width="116" height="26" />
+      <text id="28:99" name="4.5" x="138" y="115" width="14" height="16" />
+      <text id="28:104" name="Lorem ipsum dolor sit amet, consectetur adipiscing elit," x="24" y="132" width="183" height="38" />
+    </frame>
+    <frame id="28:106" name="Frame 36" x="268" y="685" width="226" height="180">
+      <frame id="28:107" name="akar-icons:star" x="53" y="108" width="80" height="24.000301361083984">
+        <frame id="28:108" name="akar-icons:star" x="0" y="6.000150680541992" width="12" height="12" />
+        <frame id="28:110" name="akar-icons:star" x="17" y="6.000150680541992" width="12" height="12" />
+        <frame id="28:112" name="akar-icons:star" x="34" y="6.000150680541992" width="12" height="12" />
+        <frame id="28:114" name="akar-icons:star" x="51" y="6.000150680541992" width="12" height="12" />
+        <frame id="28:116" name="akar-icons:star" x="68" y="6.000150680541992" width="12" height="12" />
+      </frame>
+      <frame id="28:122" name="Group 12" x="0" y="0" width="226" height="95">
+        <rounded-rectangle id="28:123" name="Rectangle 5" x="0" y="0" width="226" height="95" />
+        <rounded-rectangle id="28:124" name="image 3" x="0" y="-26" width="226" height="170" />
+      </frame>
+      <frame id="28:125" name="Group 13" x="15" y="84" width="33" height="33">
+        <ellipse id="28:126" name="Ellipse 5" x="15" y="84" width="33" height="33" />
+        <symbol id="28:138" name="maki:museum" x="20" y="89" width="24" height="24" />
+      </frame>
+      <text id="28:128" name="Museu de Vassouras" x="53" y="95" width="148" height="26" />
+      <text id="28:129" name="4.5" x="138" y="115" width="14" height="16" />
+      <text id="28:130" name="Lorem ipsum dolor sit amet, consectetur adipiscing elit," x="24" y="132" width="183" height="38" />
+    </frame>
+    <frame id="26:51" name="Frame 14" x="20" y="326" width="280" height="100">
+      <frame id="26:48" name="Frame 11" x="0" y="0" width="280" height="28">
+        <instance id="24:30" name="icon-park-solid:local-two" x="0" y="2" width="24" height="24" />
+        <text id="24:14" name="São José do Rio Preto, Brasil" x="34" y="0" width="246" height="28" />
+      </frame>
+      <frame id="26:49" name="Frame 12" x="0" y="38" width="103" height="24">
+        <symbol id="24:43" name="akar-icons:calendar" x="0" y="0" width="24" height="24" />
+        <text id="26:47" name="22 anos" x="34" y="0" width="69" height="24" />
+      </frame>
+      <frame id="26:60" name="Frame 15" x="0" y="72" width="118" height="28">
+        <symbol id="26:56" name="f7:logo-instagram" x="0" y="2" width="24" height="24" />
+        <text id="26:57" name="@jpneves" x="34" y="0" width="84" height="28" />
+      </frame>
+    </frame>
+    <text id="28:132" name="5.0" x="233" y="148" width="32" height="39" />
+    <symbol id="39:75" name="Group 19" x="0" y="828" width="430" height="104" />
+    <text id="91:210" name="todos" x="368" y="467" width="41" height="26" />
+    <text id="91:211" name="todos" x="369" y="652" width="41" height="26" />
+  </frame>
+  <frame id="91:215" name="Filtros" x="3290" y="0" width="430" height="932">
+    <frame id="91:216" name="Group 24" x="0" y="40" width="430" height="923">
+      <text id="91:217" name="Meus favoritos" x="20" y="40" width="349" height="52" />
+      <frame id="91:218" name="Frame 37" x="20" y="190" width="390" height="241">
+        <frame id="91:219" name="akar-icons:star" x="294" y="135" width="80" height="24.000301361083984">
+          <frame id="91:220" name="akar-icons:star" x="0" y="6.000150680541992" width="12" height="12" />
+          <frame id="91:222" name="akar-icons:star" x="17" y="6.000150680541992" width="12" height="12" />
+          <frame id="91:224" name="akar-icons:star" x="34" y="6.000150680541992" width="12" height="12" />
+          <frame id="91:226" name="akar-icons:star" x="51" y="6.000150680541992" width="12" height="12" />
+          <frame id="91:228" name="akar-icons:star" x="68" y="6.000150680541992" width="12" height="12" />
+        </frame>
+        <frame id="91:234" name="Group 12" x="0" y="0" width="390" height="131">
+          <rounded-rectangle id="91:235" name="Rectangle 5" x="0" y="0" width="390" height="131" />
+          <rounded-rectangle id="91:236" name="image 3" x="0" y="-57" width="390" height="293" />
+        </frame>
+        <frame id="91:237" name="Group 23" x="10" y="119" width="46" height="46">
+          <ellipse id="91:238" name="Ellipse 5" x="10" y="119" width="46" height="46" />
+          <instance id="91:239" name="at-icons:tree" x="21" y="130" width="24" height="24" />
+        </frame>
+        <text id="91:240" name="Parque Ibirapuera" x="65" y="135" width="134" height="26" />
+        <text id="91:241" name="Lorem ipsum dolor sit amet, consectetur adipiscing elit, Lorem ipsum dolor sit amet, consectetur adipiscing elit, Lorem ipsum dolor sit amet, consectetur adipiscing elit," x="16" y="174" width="358" height="51" />
+      </frame>
+      <frame id="91:242" name="Frame 47" x="20" y="456" width="390" height="241">
+        <frame id="91:243" name="akar-icons:star" x="294" y="135" width="80" height="24.000301361083984">
+          <frame id="91:244" name="akar-icons:star" x="0" y="6.000150680541992" width="12" height="12" />
+          <frame id="91:246" name="akar-icons:star" x="17" y="6.000150680541992" width="12" height="12" />
+          <frame id="91:248" name="akar-icons:star" x="34" y="6.000150680541992" width="12" height="12" />
+          <frame id="91:250" name="akar-icons:star" x="51" y="6.000150680541992" width="12" height="12" />
+          <frame id="91:252" name="akar-icons:star" x="68" y="6.000150680541992" width="12" height="12" />
+        </frame>
+        <frame id="91:258" name="Group 12" x="0" y="0" width="390" height="131">
+          <rounded-rectangle id="91:259" name="Rectangle 5" x="0" y="0" width="390" height="131" />
+          <rounded-rectangle id="91:260" name="image 3" x="0" y="-57" width="390" height="293" />
+        </frame>
+        <frame id="91:261" name="Group 23" x="10" y="119" width="46" height="46">
+          <ellipse id="91:262" name="Ellipse 5" x="10" y="119" width="46" height="46" />
+          <instance id="91:263" name="maki:amusement-park" x="21" y="130" width="24" height="24" />
+        </frame>
+        <text id="91:264" name="Vitinho Park" x="65" y="135" width="134" height="26" />
+        <text id="91:265" name="Lorem ipsum dolor sit amet, consectetur adipiscing elit, Lorem ipsum dolor sit amet, consectetur adipiscing elit, Lorem ipsum dolor sit amet, consectetur adipiscing elit," x="16" y="174" width="358" height="51" />
+      </frame>
+      <frame id="91:266" name="Frame 46" x="20" y="722" width="390" height="241">
+        <frame id="91:267" name="akar-icons:star" x="294" y="135" width="80" height="24.000301361083984">
+          <frame id="91:268" name="akar-icons:star" x="0" y="6.000150680541992" width="12" height="12" />
+          <frame id="91:270" name="akar-icons:star" x="17" y="6.000150680541992" width="12" height="12" />
+          <frame id="91:272" name="akar-icons:star" x="34" y="6.000150680541992" width="12" height="12" />
+          <frame id="91:274" name="akar-icons:star" x="51" y="6.000150680541992" width="12" height="12" />
+          <frame id="91:276" name="akar-icons:star" x="68" y="6.000150680541992" width="12" height="12" />
+        </frame>
+        <frame id="91:282" name="Group 12" x="0" y="0" width="390" height="131">
+          <rounded-rectangle id="91:283" name="Rectangle 5" x="0" y="0" width="390" height="131" />
+          <rounded-rectangle id="91:284" name="image 3" x="-1" y="-59" width="391" height="293" />
+        </frame>
+        <frame id="91:285" name="Group 23" x="10" y="119" width="46" height="46">
+          <ellipse id="91:286" name="Ellipse 5" x="10" y="119" width="46" height="46" />
+          <instance id="91:287" name="boxicons:cable-car-filled" x="21" y="130" width="24" height="24" />
+        </frame>
+        <text id="91:288" name="Pão de Açucar" x="65" y="135" width="134" height="26" />
+        <text id="91:289" name="Lorem ipsum dolor sit amet, consectetur adipiscing elit, Lorem ipsum dolor sit amet, consectetur adipiscing elit, Lorem ipsum dolor sit amet, consectetur adipiscing elit," x="16" y="174" width="358" height="51" />
+      </frame>
+      <frame id="91:290" name="Frame 45" x="20" y="124" width="226.60000610351562" height="45.599998474121094">
+        <instance id="91:291" name="akar-icons:search" x="20.799999237060547" y="10.800000190734863" width="24" height="24" />
+        <text id="91:292" name="Pesquisar" x="54.79999923706055" y="10.800000190734863" width="71" height="21" />
+      </frame>
+      <instance id="91:293" name="Group 20" x="0" y="828" width="430" height="104" />
+      <text id="91:294" name="4.5" x="314" y="343" width="14" height="16" />
+    </frame>
+    <frame id="91:295" name="Group 21" x="301" y="134" width="109" height="26">
+      <text id="91:296" name="Mais recentes" x="301" y="134" width="100" height="26" />
+      <vector id="91:297" name="Arrow 1" x="410" y="152" width="0" height="12" />
+    </frame>
+    <line id="91:298" name="Line 8" x="301" y="158" width="108.9999982573272" height="0.9999999951885172" />
+    <frame id="91:299" name="Group 25" x="300.997802734375" y="134" width="109.00458526611328" height="26">
+      <text id="91:300" name="Mais recentes" x="301" y="134" width="100" height="26" />
+      <line id="91:301" name="Line 8" x="300.99770647031255" y="158.5" width="109.00458526611328" height="0" />
+    </frame>
+    <frame id="91:302" name="Frame 48" x="266" y="169" width="144" height="262">
+      <text id="91:303" name="Natureza" x="17" y="139" width="67" height="26" />
+      <text id="91:304" name="Comida" x="17" y="168" width="55" height="26" />
+      <text id="91:305" name="Parques" x="17" y="197" width="59" height="26" />
+      <text id="91:306" name="Esportes" x="17" y="226" width="63" height="26" />
+      <frame id="91:307" name="Group 26" x="17" y="23.5" width="109" height="26">
+        <text id="91:308" name="Mais recentes" x="17" y="23.5" width="100" height="26" />
+        <vector id="91:309" name="Arrow 1" x="126" y="41.5" width="0" height="12" />
+      </frame>
+      <frame id="91:310" name="Group 27" x="17" y="52.5" width="109" height="26">
+        <text id="91:311" name="Mais recentes" x="17" y="52.5" width="100" height="26" />
+        <vector id="91:312" name="Arrow 2" x="126" y="70.5" width="0" height="12" />
+      </frame>
+      <frame id="91:313" name="Group 28" x="17" y="81" width="109" height="26">
+        <text id="91:314" name="Alfabética" x="17" y="81" width="73" height="26" />
+        <vector id="91:315" name="Arrow 3" x="126" y="99" width="0" height="12" />
+      </frame>
+      <frame id="91:316" name="Group 29" x="17" y="110" width="109" height="26">
+        <text id="91:317" name="Alfabética" x="17" y="110" width="73" height="26" />
+        <vector id="91:318" name="Arrow 4" x="126" y="128" width="0" height="12" />
+      </frame>
+      <line id="91:319" name="Line 9" x="9.00000286102295" y="99" width="0.0000032783545975689776" height="75" />
+      <instance id="91:320" name="at-icons:tree" x="111" y="139" width="24" height="24" />
+      <instance id="91:321" name="maki:amusement-park" x="111" y="199" width="24" height="24" />
+      <instance id="91:322" name="fluent:food-24-filled" x="111" y="169" width="24" height="24" />
+      <instance id="91:323" name="coolicons:tennis-ball-fill" x="111" y="229" width="24" height="24" />
+      <line id="91:324" name="Line 10" x="19" y="42" width="98" height="0" />
+    </frame>
+  </frame>
+  <frame id="1:6" name="Meus pontos" x="1880" y="0" width="430" height="932">
+    <text id="29:139" name="Meus pontos" x="20" y="40" width="298" height="52" />
+    <frame id="29:140" name="Frame 37" x="20" y="190" width="390" height="241">
+      <frame id="29:141" name="akar-icons:star" x="294" y="135" width="80" height="24.000301361083984">
+        <frame id="29:142" name="akar-icons:star" x="0" y="6.000150680541992" width="12" height="12" />
+        <frame id="29:144" name="akar-icons:star" x="17" y="6.000150680541992" width="12" height="12" />
+        <frame id="29:146" name="akar-icons:star" x="34" y="6.000150680541992" width="12" height="12" />
+        <frame id="29:148" name="akar-icons:star" x="51" y="6.000150680541992" width="12" height="12" />
+        <frame id="29:150" name="akar-icons:star" x="68" y="6.000150680541992" width="12" height="12" />
+      </frame>
+      <frame id="29:156" name="Group 12" x="0" y="0" width="390" height="131">
+        <rounded-rectangle id="29:157" name="Rectangle 5" x="0" y="0" width="390" height="131" />
+        <rounded-rectangle id="29:158" name="image 3" x="0" y="-57" width="390" height="293" />
+      </frame>
+      <frame id="39:135" name="Group 23" x="10" y="119" width="46" height="46">
+        <ellipse id="29:160" name="Ellipse 5" x="10" y="119" width="46" height="46" />
+        <symbol id="39:131" name="at-icons:tree" x="21" y="130" width="24" height="24" />
+      </frame>
+      <text id="29:162" name="Parque Ibirapuera" x="65" y="135" width="134" height="26" />
+      <text id="29:164" name="Lorem ipsum dolor sit amet, consectetur adipiscing elit, Lorem ipsum dolor sit amet, consectetur adipiscing elit, Lorem ipsum dolor sit amet, consectetur adipiscing elit," x="16" y="174" width="358" height="51" />
+    </frame>
+    <frame id="39:164" name="Frame 47" x="20" y="456" width="390" height="241">
+      <frame id="39:165" name="akar-icons:star" x="294" y="135" width="80" height="24.000301361083984">
+        <frame id="39:166" name="akar-icons:star" x="0" y="6.000150680541992" width="12" height="12" />
+        <frame id="39:168" name="akar-icons:star" x="17" y="6.000150680541992" width="12" height="12" />
+        <frame id="39:170" name="akar-icons:star" x="34" y="6.000150680541992" width="12" height="12" />
+        <frame id="39:172" name="akar-icons:star" x="51" y="6.000150680541992" width="12" height="12" />
+        <frame id="39:174" name="akar-icons:star" x="68" y="6.000150680541992" width="12" height="12" />
+      </frame>
+      <frame id="39:180" name="Group 12" x="0" y="0" width="390" height="131">
+        <rounded-rectangle id="39:181" name="Rectangle 5" x="0" y="0" width="390" height="131" />
+        <rounded-rectangle id="39:182" name="image 3" x="0" y="-57" width="390" height="293" />
+      </frame>
+      <frame id="39:183" name="Group 23" x="10" y="119" width="46" height="46">
+        <ellipse id="39:184" name="Ellipse 5" x="10" y="119" width="46" height="46" />
+        <symbol id="39:194" name="maki:amusement-park" x="21" y="130" width="24" height="24" />
+      </frame>
+      <text id="39:186" name="Vitinho Park" x="65" y="135" width="134" height="26" />
+      <text id="39:187" name="Lorem ipsum dolor sit amet, consectetur adipiscing elit, Lorem ipsum dolor sit amet, consectetur adipiscing elit, Lorem ipsum dolor sit amet, consectetur adipiscing elit," x="16" y="174" width="358" height="51" />
+    </frame>
+    <frame id="39:138" name="Frame 46" x="20" y="722" width="390" height="241">
+      <frame id="39:139" name="akar-icons:star" x="294" y="135" width="80" height="24.000301361083984">
+        <frame id="39:140" name="akar-icons:star" x="0" y="6.000150680541992" width="12" height="12" />
+        <frame id="39:142" name="akar-icons:star" x="17" y="6.000150680541992" width="12" height="12" />
+        <frame id="39:144" name="akar-icons:star" x="34" y="6.000150680541992" width="12" height="12" />
+        <frame id="39:146" name="akar-icons:star" x="51" y="6.000150680541992" width="12" height="12" />
+        <frame id="39:148" name="akar-icons:star" x="68" y="6.000150680541992" width="12" height="12" />
+      </frame>
+      <frame id="39:154" name="Group 12" x="0" y="0" width="390" height="131">
+        <rounded-rectangle id="39:155" name="Rectangle 5" x="0" y="0" width="390" height="131" />
+        <rounded-rectangle id="39:156" name="image 3" x="-1" y="-59" width="391" height="293" />
+      </frame>
+      <frame id="39:157" name="Group 23" x="10" y="119" width="46" height="46">
+        <ellipse id="39:158" name="Ellipse 5" x="10" y="119" width="46" height="46" />
+        <symbol id="39:191" name="boxicons:cable-car-filled" x="21" y="130" width="24" height="24" />
+      </frame>
+      <text id="39:160" name="Pão de Açucar" x="65" y="135" width="134" height="26" />
+      <text id="39:161" name="Lorem ipsum dolor sit amet, consectetur adipiscing elit, Lorem ipsum dolor sit amet, consectetur adipiscing elit, Lorem ipsum dolor sit amet, consectetur adipiscing elit," x="16" y="174" width="358" height="51" />
+    </frame>
+    <frame id="39:116" name="Frame 45" x="20" y="124" width="226.60000610351562" height="45.599998474121094">
+      <instance id="39:117" name="akar-icons:search" x="20.799999237060547" y="10.800000190734863" width="24" height="24" />
+      <text id="31:168" name="Pesquisar" x="54.79999923706055" y="10.800000190734863" width="71" height="21" />
+    </frame>
+    <instance id="39:104" name="Group 20" x="0" y="828" width="430" height="104" />
+    <frame id="39:128" name="Group 22" x="300.997802734375" y="134" width="109.00458526611328" height="26">
+      <text id="39:121" name="Mais recentes" x="301" y="134" width="100" height="26" />
+      <vector id="39:122" name="Arrow 1" x="410" y="152" width="0" height="12" />
+      <line id="39:127" name="Line 8" x="300.99770647031255" y="158.5" width="109.00458526611328" height="0" />
+    </frame>
+    <text id="39:136" name="4.5" x="295" y="332" width="14" height="16" />
+    <text id="39:162" name="4.5" x="295" y="598" width="14" height="16" />
+  </frame>
+  <frame id="91:444" name="Minhas avaliações" x="2350" y="0" width="430" height="932">
+    <frame id="91:630" name="Frame 48" x="20" y="836" width="381" height="183">
+      <frame id="91:631" name="akar-icons:star" x="63" y="16" width="140" height="24.000301361083984">
+        <frame id="91:632" name="akar-icons:star" x="0" y="0" width="24" height="24.000301361083984">
+          <vector id="91:633" name="Vector" x="2" y="2" width="20.000886917114258" height="20.000301361083984" />
+        </frame>
+        <frame id="91:634" name="akar-icons:star" x="29" y="0.0001506805419921875" width="24" height="24" />
+        <frame id="91:636" name="akar-icons:star" x="58" y="0.0001506805419921875" width="24" height="24" />
+        <frame id="91:638" name="akar-icons:star" x="87" y="0.0001506805419921875" width="24" height="24" />
+        <frame id="91:640" name="akar-icons:star" x="116" y="0.0001506805419921875" width="24" height="24" />
+      </frame>
+      <frame id="91:642" name="Group 7" x="10" y="16" width="40" height="40">
+        <ellipse id="91:643" name="Ellipse 3" x="10" y="16" width="40" height="40" />
+        <rounded-rectangle id="91:644" name="image 2" x="78.815673828125" y="28.687170028686523" width="56.256980895996094" height="112.51396179199219" />
+      </frame>
+      <text id="91:645" name="Parque Ibirapuera" x="65" y="44" width="102" height="19" />
+      <text id="91:646" name="Lorem ipsum dolor sit amet, consectetur adipiscing elit," x="16" y="73" width="183" height="38" />
+    </frame>
+    <text id="91:445" name="Minhas reviews" x="20" y="40" width="363" height="52" />
+    <frame id="91:518" name="Frame 45" x="20" y="124" width="226.60000610351562" height="45.599998474121094">
+      <instance id="91:519" name="akar-icons:search" x="20.799999237060547" y="10.800000190734863" width="24" height="24" />
+      <text id="91:520" name="Pesquisar" x="54.79999923706055" y="10.800000190734863" width="71" height="21" />
+    </frame>
+    <instance id="91:521" name="Group 20" x="0" y="828" width="430" height="104" />
+    <frame id="91:522" name="Group 22" x="300.997802734375" y="134" width="109.00458526611328" height="26">
+      <text id="91:523" name="Mais recentes" x="301" y="134" width="100" height="26" />
+      <vector id="91:524" name="Arrow 1" x="410" y="152" width="0" height="12" />
+      <line id="91:525" name="Line 8" x="300.99770647031255" y="158.5" width="109.00458526611328" height="0" />
+    </frame>
+    <frame id="91:578" name="Frame 35" x="20" y="212" width="381" height="183">
+      <frame id="91:579" name="akar-icons:star" x="221" y="139" width="140" height="24.000301361083984">
+        <frame id="91:580" name="akar-icons:star" x="0" y="0" width="24" height="24.000301361083984">
+          <vector id="91:581" name="Vector" x="2" y="2" width="20.000886917114258" height="20.000301361083984" />
+        </frame>
+        <frame id="91:582" name="akar-icons:star" x="29" y="0.0001506805419921875" width="24" height="24" />
+        <frame id="91:584" name="akar-icons:star" x="58" y="0.0001506805419921875" width="24" height="24" />
+        <frame id="91:586" name="akar-icons:star" x="87" y="0.0001506805419921875" width="24" height="24" />
+        <frame id="91:588" name="akar-icons:star" x="116" y="0.0001506805419921875" width="24" height="24" />
+      </frame>
+      <frame id="91:590" name="Group 7" x="10" y="16" width="40" height="40">
+        <ellipse id="91:591" name="Ellipse 3" x="10" y="16" width="40" height="40" />
+        <rounded-rectangle id="91:592" name="image 2" x="2" y="-5" width="56.256980895996094" height="112.51396179199219" />
+      </frame>
+      <text id="91:594" name="Lorem ipsum dolor sit amet, consectetur adipiscing elit, Lorem ipsum dolor sit amet, consectetur adipiscing elit, Lorem ipsum dolor sit amet, consectetur adipiscing elit." x="16" y="73" width="343" height="57" />
+      <text id="91:649" name="Parque Ibirapuera" x="63" y="17" width="203" height="39" />
+    </frame>
+    <frame id="91:596" name="Frame 46" x="20" y="420" width="381" height="183">
+      <frame id="91:597" name="akar-icons:star" x="221" y="139" width="140" height="24.000301361083984">
+        <frame id="91:598" name="akar-icons:star" x="0" y="0" width="24" height="24.000301361083984">
+          <vector id="91:599" name="Vector" x="2" y="2" width="20.000886917114258" height="20.000301361083984" />
+        </frame>
+        <frame id="91:600" name="akar-icons:star" x="29" y="0.0001506805419921875" width="24" height="24" />
+        <frame id="91:602" name="akar-icons:star" x="58" y="0.0001506805419921875" width="24" height="24" />
+        <frame id="91:604" name="akar-icons:star" x="87" y="0.0001506805419921875" width="24" height="24" />
+        <frame id="91:606" name="akar-icons:star" x="116" y="0.0001506805419921875" width="24" height="24" />
+      </frame>
+      <frame id="91:608" name="Group 7" x="10" y="16" width="40" height="40">
+        <ellipse id="91:609" name="Ellipse 3" x="10" y="16" width="40" height="40" />
+        <rounded-rectangle id="91:610" name="image 2" x="0" y="-9" width="56.256980895996094" height="112.51396179199219" />
+      </frame>
+      <text id="91:647" name="Parque Ibirapuera" x="63" y="17" width="203" height="39" />
+      <text id="91:651" name="Lorem ipsum dolor sit amet, consectetur adipiscing elit, Lorem ipsum dolor sit amet, consectetur adipiscing elit, Lorem ipsum dolor sit amet, consectetur adipiscing elit." x="16" y="73" width="343" height="57" />
+    </frame>
+    <frame id="91:613" name="Frame 47" x="20" y="628" width="381" height="183">
+      <frame id="91:614" name="akar-icons:star" x="221" y="139" width="140" height="24.000301361083984">
+        <frame id="91:615" name="akar-icons:star" x="0" y="0" width="24" height="24.000301361083984">
+          <vector id="91:616" name="Vector" x="2" y="2" width="20.000886917114258" height="20.000301361083984" />
+        </frame>
+        <frame id="91:617" name="akar-icons:star" x="29" y="0.0001506805419921875" width="24" height="24" />
+        <frame id="91:619" name="akar-icons:star" x="58" y="0.0001506805419921875" width="24" height="24" />
+        <frame id="91:621" name="akar-icons:star" x="87" y="0.0001506805419921875" width="24" height="24" />
+        <frame id="91:623" name="akar-icons:star" x="116" y="0.0001506805419921875" width="24" height="24" />
+      </frame>
+      <frame id="91:625" name="Group 7" x="10" y="16" width="40" height="40">
+        <ellipse id="91:626" name="Ellipse 3" x="10" y="16" width="40" height="40" />
+        <rounded-rectangle id="91:627" name="image 2" x="2" y="-9" width="56.256980895996094" height="112.51396179199219" />
+      </frame>
+      <text id="91:628" name="Parque Ibirapuera" x="63" y="17" width="203" height="39" />
+      <text id="91:653" name="Lorem ipsum dolor sit amet, consectetur adipiscing elit, Lorem ipsum dolor sit amet, consectetur adipiscing elit, Lorem ipsum dolor sit amet, consectetur adipiscing elit." x="16" y="73" width="343" height="57" />
+    </frame>
+  </frame>
+  <frame id="91:325" name="Favoritos" x="2820" y="0" width="430" height="932">
+    <text id="91:326" name="Meus favoritos" x="20" y="40" width="349" height="52" />
+    <frame id="91:327" name="Frame 37" x="20" y="190" width="390" height="241">
+      <frame id="91:328" name="akar-icons:star" x="294" y="135" width="80" height="24.000301361083984">
+        <frame id="91:329" name="akar-icons:star" x="0" y="6.000150680541992" width="12" height="12" />
+        <frame id="91:331" name="akar-icons:star" x="17" y="6.000150680541992" width="12" height="12" />
+        <frame id="91:333" name="akar-icons:star" x="34" y="6.000150680541992" width="12" height="12" />
+        <frame id="91:335" name="akar-icons:star" x="51" y="6.000150680541992" width="12" height="12" />
+        <frame id="91:337" name="akar-icons:star" x="68" y="6.000150680541992" width="12" height="12" />
+      </frame>
+      <frame id="91:343" name="Group 12" x="0" y="0" width="390" height="131">
+        <rounded-rectangle id="91:344" name="Rectangle 5" x="0" y="0" width="390" height="131" />
+        <rounded-rectangle id="91:345" name="image 3" x="0" y="-57" width="390" height="293" />
+      </frame>
+      <frame id="91:346" name="Group 23" x="10" y="119" width="46" height="46">
+        <ellipse id="91:347" name="Ellipse 5" x="10" y="119" width="46" height="46" />
+        <instance id="91:348" name="at-icons:tree" x="21" y="130" width="24" height="24" />
+      </frame>
+      <text id="91:349" name="Parque Ibirapuera" x="65" y="135" width="134" height="26" />
+      <text id="91:350" name="Lorem ipsum dolor sit amet, consectetur adipiscing elit, Lorem ipsum dolor sit amet, consectetur adipiscing elit, Lorem ipsum dolor sit amet, consectetur adipiscing elit," x="16" y="174" width="358" height="51" />
+    </frame>
+    <frame id="91:351" name="Frame 47" x="20" y="456" width="390" height="241">
+      <frame id="91:352" name="akar-icons:star" x="294" y="135" width="80" height="24.000301361083984">
+        <frame id="91:353" name="akar-icons:star" x="0" y="6.000150680541992" width="12" height="12" />
+        <frame id="91:355" name="akar-icons:star" x="17" y="6.000150680541992" width="12" height="12" />
+        <frame id="91:357" name="akar-icons:star" x="34" y="6.000150680541992" width="12" height="12" />
+        <frame id="91:359" name="akar-icons:star" x="51" y="6.000150680541992" width="12" height="12" />
+        <frame id="91:361" name="akar-icons:star" x="68" y="6.000150680541992" width="12" height="12" />
+      </frame>
+      <frame id="91:367" name="Group 12" x="0" y="0" width="390" height="131">
+        <rounded-rectangle id="91:368" name="Rectangle 5" x="0" y="0" width="390" height="131" />
+        <rounded-rectangle id="91:369" name="image 3" x="0" y="-57" width="390" height="293" />
+      </frame>
+      <frame id="91:370" name="Group 23" x="10" y="119" width="46" height="46">
+        <ellipse id="91:371" name="Ellipse 5" x="10" y="119" width="46" height="46" />
+        <instance id="91:372" name="maki:amusement-park" x="21" y="130" width="24" height="24" />
+      </frame>
+      <text id="91:373" name="Vitinho Park" x="65" y="135" width="134" height="26" />
+      <text id="91:374" name="Lorem ipsum dolor sit amet, consectetur adipiscing elit, Lorem ipsum dolor sit amet, consectetur adipiscing elit, Lorem ipsum dolor sit amet, consectetur adipiscing elit," x="16" y="174" width="358" height="51" />
+    </frame>
+    <frame id="91:375" name="Frame 46" x="20" y="722" width="390" height="241">
+      <frame id="91:376" name="akar-icons:star" x="294" y="135" width="80" height="24.000301361083984">
+        <frame id="91:377" name="akar-icons:star" x="0" y="6.000150680541992" width="12" height="12" />
+        <frame id="91:379" name="akar-icons:star" x="17" y="6.000150680541992" width="12" height="12" />
+        <frame id="91:381" name="akar-icons:star" x="34" y="6.000150680541992" width="12" height="12" />
+        <frame id="91:383" name="akar-icons:star" x="51" y="6.000150680541992" width="12" height="12" />
+        <frame id="91:385" name="akar-icons:star" x="68" y="6.000150680541992" width="12" height="12" />
+      </frame>
+      <frame id="91:391" name="Group 12" x="0" y="0" width="390" height="131">
+        <rounded-rectangle id="91:392" name="Rectangle 5" x="0" y="0" width="390" height="131" />
+        <rounded-rectangle id="91:393" name="image 3" x="-1" y="-59" width="391" height="293" />
+      </frame>
+      <frame id="91:394" name="Group 23" x="10" y="119" width="46" height="46">
+        <ellipse id="91:395" name="Ellipse 5" x="10" y="119" width="46" height="46" />
+        <instance id="91:396" name="boxicons:cable-car-filled" x="21" y="130" width="24" height="24" />
+      </frame>
+      <text id="91:397" name="Pão de Açucar" x="65" y="135" width="134" height="26" />
+      <text id="91:398" name="Lorem ipsum dolor sit amet, consectetur adipiscing elit, Lorem ipsum dolor sit amet, consectetur adipiscing elit, Lorem ipsum dolor sit amet, consectetur adipiscing elit," x="16" y="174" width="358" height="51" />
+    </frame>
+    <frame id="91:399" name="Frame 45" x="20" y="124" width="226.60000610351562" height="45.599998474121094">
+      <instance id="91:400" name="akar-icons:search" x="20.799999237060547" y="10.800000190734863" width="24" height="24" />
+      <text id="91:401" name="Pesquisar" x="54.79999923706055" y="10.800000190734863" width="71" height="21" />
+    </frame>
+    <instance id="91:402" name="Group 20" x="0" y="828" width="430" height="104" />
+    <frame id="91:403" name="Group 22" x="300.997802734375" y="134" width="109.00458526611328" height="26">
+      <text id="91:404" name="Mais recentes" x="301" y="134" width="100" height="26" />
+      <vector id="91:405" name="Arrow 1" x="410" y="152" width="0" height="12" />
+      <line id="91:406" name="Line 8" x="300.99770647031255" y="158.5" width="109.00458526611328" height="0" />
+    </frame>
+    <text id="91:407" name="4.5" x="295" y="332" width="14" height="16" />
+    <text id="91:408" name="4.5" x="295" y="598" width="14" height="16" />
+  </frame>
+  <frame id="55:503" name="Mais informações" x="1880" y="1091" width="430" height="1121">
+    <text id="55:504" name="Mais:" x="20" y="40" width="139" height="62" />
+    <text id="55:505" name="Adicionar fotos" x="20" y="113" width="240" height="48" />
+    <text id="55:506" name="Quanto você pagou?" x="20" y="362" width="329" height="48" />
+    <text id="55:507" name="Horário de Funcionamento" x="20" y="483" width="343" height="48" />
+    <frame id="55:518" name="Frame 39" x="20" y="409" width="390" height="49">
+      <frame id="55:519" name="Frame 15" x="0" y="0" width="105" height="49">
+        <text id="55:520" name="R$ 0-30" x="20" y="15" width="65" height="19" />
+      </frame>
+      <frame id="55:521" name="Frame 38" x="140" y="0" width="116" height="49">
+        <text id="55:522" name="R$ 30-60" x="20" y="15" width="76" height="19" />
+      </frame>
+      <frame id="55:523" name="Frame 15" x="291" y="0" width="98" height="49">
+        <text id="55:524" name="R$ 60+" x="20" y="15" width="58" height="19" />
+      </frame>
+    </frame>
+    <frame id="92:659" name="Group 47" x="20" y="531" width="390" height="258">
+      <text id="55:525" name="Seg" x="20" y="536" width="33.42856979370117" height="19" />
+      <rounded-rectangle id="55:526" name="Rectangle 9" x="85.74285888671875" y="535" width="40.11428451538086" height="22" />
+      <ellipse id="55:527" name="Ellipse 6" x="104.68571472167969" y="537" width="20.05714225769043" height="18" />
+      <rounded-rectangle id="55:528" name="Rectangle 10" x="168.1999969482422" y="531" width="93.5999984741211" height="30" />
+      <text id="55:529" name="9:00" x="194.94285583496094" y="536" width="40.11428451538086" height="19" />
+      <rounded-rectangle id="55:530" name="Rectangle 11" x="316.3999938964844" y="531" width="93.5999984741211" height="30" />
+      <text id="55:531" name="18:00" x="342.028564453125" y="537" width="47.91428756713867" height="19" />
+      <text id="55:532" name="-" x="285.20001220703125" y="537" width="8.914285659790039" height="19" />
+      <text id="55:533" name="Ter" x="20" y="574" width="28.97142791748047" height="19" />
+      <rounded-rectangle id="55:534" name="Rectangle 12" x="85.74285888671875" y="573" width="40.11428451538086" height="22" />
+      <ellipse id="55:535" name="Ellipse 7" x="104.68571472167969" y="575" width="20.05714225769043" height="18" />
+      <rounded-rectangle id="55:536" name="Rectangle 13" x="168.1999969482422" y="569" width="93.5999984741211" height="30" />
+      <text id="55:537" name="9:00" x="194.94285583496094" y="574" width="40.11428451538086" height="19" />
+      <rounded-rectangle id="55:538" name="Rectangle 14" x="316.3999938964844" y="569" width="93.5999984741211" height="30" />
+      <text id="55:539" name="18:00" x="342.028564453125" y="575" width="47.91428756713867" height="19" />
+      <text id="55:540" name="-" x="285.20001220703125" y="575" width="8.914285659790039" height="19" />
+      <text id="55:541" name="Sex" x="20" y="688" width="32.31428527832031" height="19" />
+      <rounded-rectangle id="55:542" name="Rectangle 21" x="85.74285888671875" y="687" width="40.11428451538086" height="22" />
+      <ellipse id="55:543" name="Ellipse 10" x="104.68571472167969" y="689" width="20.05714225769043" height="18" />
+      <rounded-rectangle id="55:544" name="Rectangle 22" x="168.1999969482422" y="683" width="93.5999984741211" height="30" />
+      <text id="55:545" name="9:00" x="194.94285583496094" y="688" width="40.11428451538086" height="19" />
+      <rounded-rectangle id="55:546" name="Rectangle 23" x="316.3999938964844" y="683" width="93.5999984741211" height="30" />
+      <text id="55:547" name="18:00" x="342.028564453125" y="689" width="47.91428756713867" height="19" />
+      <text id="55:548" name="-" x="285.20001220703125" y="689" width="8.914285659790039" height="19" />
+      <text id="55:549" name="Sáb" x="20" y="726" width="33.42856979370117" height="19" />
+      <rounded-rectangle id="55:550" name="Rectangle 24" x="85.74285888671875" y="725" width="40.11428451538086" height="22" />
+      <ellipse id="55:551" name="Ellipse 11" x="104.68571472167969" y="727" width="20.05714225769043" height="18" />
+      <rounded-rectangle id="55:552" name="Rectangle 25" x="168.1999969482422" y="721" width="93.5999984741211" height="30" />
+      <text id="55:553" name="9:00" x="194.94285583496094" y="726" width="40.11428451538086" height="19" />
+      <rounded-rectangle id="55:554" name="Rectangle 26" x="316.3999938964844" y="721" width="93.5999984741211" height="30" />
+      <text id="55:555" name="18:00" x="342.028564453125" y="727" width="47.91428756713867" height="19" />
+      <text id="55:556" name="-" x="285.20001220703125" y="727" width="8.914285659790039" height="19" />
+      <text id="55:557" name="Dom" x="20" y="764" width="40.11428451538086" height="19" />
+      <rounded-rectangle id="55:558" name="Rectangle 27" x="85.74285888671875" y="763" width="40.11428451538086" height="22" />
+      <vector id="55:559" name="Ellipse 12" x="87.97142791748047" y="765" width="20.05714225769043" height="18" />
+      <rounded-rectangle id="55:560" name="Rectangle 28" x="168.1999969482422" y="759" width="241.8000030517578" height="30" />
+      <text id="55:561" name="Fechado" x="252.88571166992188" y="764" width="73.54285430908203" height="19" />
+      <text id="55:562" name="Qua" x="20" y="612" width="35.657142639160156" height="19" />
+      <rounded-rectangle id="55:563" name="Rectangle 15" x="85.74285888671875" y="611" width="40.11428451538086" height="22" />
+      <ellipse id="55:564" name="Ellipse 8" x="104.68571472167969" y="613" width="20.05714225769043" height="18" />
+      <rounded-rectangle id="55:565" name="Rectangle 16" x="168.1999969482422" y="607" width="93.5999984741211" height="30" />
+      <text id="55:566" name="9:00" x="194.94285583496094" y="612" width="40.11428451538086" height="19" />
+      <rounded-rectangle id="55:567" name="Rectangle 17" x="316.3999938964844" y="607" width="93.5999984741211" height="30" />
+      <text id="55:568" name="18:00" x="342.028564453125" y="613" width="47.91428756713867" height="19" />
+      <text id="55:569" name="-" x="285.20001220703125" y="613" width="8.914285659790039" height="19" />
+      <text id="55:570" name="Qui" x="20" y="650" width="30.08571434020996" height="19" />
+      <rounded-rectangle id="55:571" name="Rectangle 18" x="85.74285888671875" y="649" width="40.11428451538086" height="22" />
+      <ellipse id="55:572" name="Ellipse 9" x="104.68571472167969" y="651" width="20.05714225769043" height="18" />
+      <rounded-rectangle id="55:573" name="Rectangle 19" x="168.1999969482422" y="645" width="93.5999984741211" height="30" />
+      <text id="55:574" name="9:00" x="194.94285583496094" y="650" width="40.11428451538086" height="19" />
+      <rounded-rectangle id="55:575" name="Rectangle 20" x="316.3999938964844" y="645" width="93.5999984741211" height="30" />
+      <text id="55:576" name="18:00" x="342.028564453125" y="651" width="47.91428756713867" height="19" />
+      <text id="55:577" name="-" x="285.20001220703125" y="651" width="8.914285659790039" height="19" />
+    </frame>
+    <instance id="56:100" name="Group 19" x="0" y="1014" width="430" height="104" />
+    <frame id="66:316" name="Group 44" x="20" y="848" width="390" height="85.5999984741211">
+      <frame id="66:317" name="Frame 59" x="237" y="848" width="173" height="37">
+        <text id="66:318" name="Restaurantes" x="11" y="3" width="127" height="31" />
+        <instance id="66:319" name="fluent:food-24-filled" x="138" y="6.5" width="24" height="24" />
+      </frame>
+      <frame id="66:320" name="Frame 60" x="21" y="849" width="63" height="36">
+        <text id="66:321" name="Todos" x="10" y="5" width="43" height="26" />
+      </frame>
+      <frame id="66:322" name="Frame 63" x="344" y="897" width="54" height="36">
+        <text id="66:323" name="Mais" x="10" y="5" width="34" height="26" />
+      </frame>
+      <frame id="66:324" name="Frame 61" x="20" y="896" width="152.60000610351562" height="37.599998474121094">
+        <text id="66:325" name="Natureza" x="10.800000190734863" y="2.799999952316284" width="80" height="32" />
+        <instance id="66:326" name="at-icons:tree" x="117.80000305175781" y="6.800000190734863" width="24" height="24" />
+      </frame>
+      <frame id="66:327" name="Frame 62" x="183" y="896" width="152.60000610351562" height="37.599998474121094">
+        <text id="66:328" name="Esportes" x="10.800000190734863" y="2.799999952316284" width="76" height="32" />
+        <instance id="66:329" name="coolicons:tennis-ball-fill" x="117.80000305175781" y="6.800000190734863" width="24" height="24" />
+      </frame>
+      <frame id="66:330" name="Frame 64" x="21" y="849" width="63" height="36">
+        <text id="66:331" name="Todos" x="10" y="5" width="43" height="26" />
+      </frame>
+      <frame id="66:332" name="Frame 65" x="237" y="848" width="173" height="37">
+        <text id="66:333" name="Restaurantes" x="11" y="3" width="127" height="31" />
+        <instance id="66:334" name="fluent:food-24-filled" x="138" y="6.5" width="24" height="24" />
+      </frame>
+      <frame id="66:335" name="Frame 66" x="20" y="896" width="152.60000610351562" height="37.599998474121094">
+        <text id="66:336" name="Natureza" x="10.800000190734863" y="2.799999952316284" width="80" height="32" />
+        <instance id="66:337" name="at-icons:tree" x="117.80000305175781" y="6.800000190734863" width="24" height="24" />
+      </frame>
+      <frame id="66:338" name="Frame 67" x="183" y="896" width="152.60000610351562" height="37.599998474121094">
+        <text id="66:339" name="Esportes" x="10.800000190734863" y="2.799999952316284" width="76" height="32" />
+        <instance id="66:340" name="coolicons:tennis-ball-fill" x="117.80000305175781" y="6.800000190734863" width="24" height="24" />
+      </frame>
+      <frame id="66:341" name="Frame 58" x="101" y="848" width="125.5999984741211" height="36.599998474121094">
+        <text id="66:342" name="Parques" x="10.800000190734863" y="2.799999952316284" width="80" height="31" />
+        <instance id="66:343" name="maki:amusement-park" x="90.80000305175781" y="6.300000190734863" width="24" height="24" />
+      </frame>
+      <frame id="66:344" name="Frame 68" x="344" y="897" width="54" height="36">
+        <text id="66:345" name="Mais" x="10" y="5" width="34" height="26" />
+      </frame>
+    </frame>
+    <frame id="91:192" name="Frame 50" x="20" y="959" width="386" height="59">
+      <text id="91:193" name="ENVIAR ALTERAÇÃO" x="116" y="14.5" width="154" height="30" />
+    </frame>
+    <text id="91:198" name="Categorias:" x="20" y="814" width="187" height="34" />
+    <frame id="92:1155" name="Group 41" x="20" y="161" width="390" height="176">
+      <rounded-rectangle id="92:1156" name="Rectangle 32" x="20" y="161" width="390" height="176" />
+      <text id="92:1157" name="Adicione uma foto" x="136" y="267" width="192" height="20" />
+      <frame id="92:1158" name="andrsrxn:camera" x="185" y="203" width="59.800838470458984" height="59.800838470458984" />
+    </frame>
+  </frame>
+  <frame id="96:375" name="Configs" x="2820" y="1091" width="430" height="935">
+    <text id="96:376" name="Configurações" x="20" y="40" width="386" height="62" />
+    <text id="96:377" name="Aparência" x="20" y="113" width="240" height="34" />
+    <text id="96:519" name="Acessibilidade" x="19" y="244" width="240" height="48" />
+    <text id="98:544" name="Preferências" x="19" y="397" width="240" height="34" />
+    <instance id="96:441" name="Group 19" x="0" y="831" width="430" height="104" />
+    <frame id="100:414" name="Frame 77" x="62" y="158" width="306" height="55">
+      <text id="96:507" name="Claro" x="21" y="17.5" width="38" height="20" />
+      <line id="96:509" name="Line 11" x="83" y="1" width="0" height="53" />
+      <text id="96:513" name="Escuro" x="107" y="17.5" width="48" height="20" />
+      <line id="96:510" name="Line 12" x="179" y="1" width="0" height="53" />
+      <frame id="100:413" name="Frame 76" x="203" y="17.5" width="82" height="20">
+        <text id="96:515" name="Sistema" x="0" y="0" width="57" height="20" />
+        <frame id="96:517" name="akar-icons:check" x="62" y="0" width="20" height="20" />
+      </frame>
+    </frame>
+    <rounded-rectangle id="96:521" name="Rectangle 37" x="20" y="280" width="386" height="92" />
+    <rounded-rectangle id="98:541" name="Rectangle 15" x="336" y="332" width="40.11428451538086" height="22" />
+    <ellipse id="98:542" name="Ellipse 8" x="354.94287109375" y="334" width="20.05714225769043" height="18" />
+    <frame id="96:522" name="carbon:text-font" x="31" y="292" width="27" height="27" />
+    <text id="96:525" name="Tamanho do texto" x="67" y="295" width="120" height="24" />
+    <text id="96:527" name="Padrão" x="332" y="296" width="41" height="21" />
+    <text id="96:528" name="&gt;" x="376" y="297" width="7" height="15" />
+    <line id="96:529" name="Line 13" x="33" y="327" width="350" height="0" />
+    <rounded-rectangle id="98:535" name="image 8" x="35" y="332" width="20" height="20" />
+    <text id="98:537" name="Alto Contraste" x="69.625" y="334.09375" width="94" height="24" />
+    <rounded-rectangle id="98:570" name="Rectangle 40" x="20" y="280" width="390" height="92" />
+    <rounded-rectangle id="98:571" name="Rectangle 41" x="336" y="332" width="40.11428451538086" height="22" />
+    <ellipse id="98:572" name="Ellipse 10" x="354.94287109375" y="334" width="20.05714225769043" height="18" />
+    <frame id="98:573" name="carbon:text-font" x="31" y="292" width="27" height="27" />
+    <text id="98:575" name="Tamanho do texto" x="67" y="295" width="120" height="24" />
+    <text id="98:576" name="Padrão" x="332" y="296" width="41" height="21" />
+    <line id="98:578" name="Line 15" x="33" y="327" width="350" height="0" />
+    <text id="98:580" name="Alto Contraste" x="67" y="334" width="94" height="24" />
+    <text id="98:612" name="Conta e suporte" x="20" y="548" width="240" height="34" />
+    <frame id="98:602" name="akar-icons:chevron-right" x="377" y="299" width="12" height="12" />
+    <frame id="100:415" name="Group 50" x="20" y="431" width="390" height="92">
+      <rounded-rectangle id="98:553" name="Rectangle 38" x="20" y="431" width="390" height="92" />
+      <text id="98:558" name="Notificações" x="67" y="444" width="81" height="24" />
+      <line id="98:561" name="Line 14" x="33" y="476" width="350" height="0" />
+      <text id="98:563" name="Localização" x="67" y="484" width="76" height="24" />
+      <frame id="98:582" name="andrsrxn:bell-notification" x="31" y="442" width="28" height="28" />
+      <frame id="98:595" name="akar-icons:location" x="33" y="482" width="24" height="24" />
+      <frame id="98:604" name="akar-icons:chevron-right" x="364" y="447" width="18" height="18" />
+      <frame id="98:607" name="akar-icons:chevron-right" x="364" y="486" width="18" height="18" />
+    </frame>
+    <frame id="98:610" name="carbon:contrast" x="125" y="552" width="16" height="16" />
+    <vector id="98:611" name="Vector" x="35" y="335" width="25" height="20.851917266845703" />
+    <frame id="100:416" name="Group 51" x="20" y="582" width="390" height="92">
+      <rounded-rectangle id="98:613" name="Rectangle 42" x="20" y="582" width="390" height="92" />
+      <frame id="98:638" name="akar-icons:chevron-right" x="365" y="600" width="18" height="18" />
+      <frame id="98:641" name="akar-icons:chevron-right" x="364" y="639" width="18" height="18" />
+      <text id="98:614" name="Privacidade" x="68" y="597" width="76" height="24" />
+      <line id="98:615" name="Line 16" x="34" y="629" width="350" height="0" />
+      <text id="98:616" name="Ajuda e suporte" x="68" y="636" width="104" height="24" />
+      <frame id="98:629" name="ci:circle-help" x="34" y="636" width="24" height="24" />
+      <frame id="98:631" name="akar-icons:shield" x="34" y="596" width="24" height="24" />
+    </frame>
+    <frame id="100:417" name="Group 52" x="20" y="699" width="150" height="34">
+      <text id="98:636" name="Sair da conta" x="51" y="701" width="119" height="32" />
+      <frame id="98:633" name="basil:logout-outline" x="20" y="699" width="31" height="31" />
+    </frame>
+  </frame>
+</canvas>
